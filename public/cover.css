@@ -51,6 +51,14 @@ body {
 /*
  * Header
  */
+
+.logo {
+    width: 100px;
+    height: 100px;
+    display: block;
+    float: right;
+}
+
 .masthead {
     margin-bottom: 2rem;
 }

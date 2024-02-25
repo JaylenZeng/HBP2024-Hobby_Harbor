@@ -45,10 +45,8 @@ fetch("csvjson.json")
 
             index++;
             profileContainer.append(profile)
-            console.log(profileContainer)
             return { name: user.Name, tags: user.Tags, reddit: user.Subreddits, element: profile }
         })
     })
 
-console.log(1)
 
