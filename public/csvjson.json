@@ -1,0 +1,5504 @@
+[
+  {
+    "Name": "2nd Common Language (Mandarin Chinese)",
+    "Description": "The second most spoken language in the world and the most natively spoken language in the world. The primary language of China, Macau, Hong Kong, Singapore and Taiwan (though as many speak Hokkien Taiwanese)",
+    "Subreddits": "r/ChineseLanguage/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "3rd Common Language (Hindi)",
+    "Description": "The third most spoken language in the world and fourth most natively spoken. The primary language of India and Fiji.",
+    "Subreddits": "r/Hindi/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "3D Printing",
+    "Description": "A type of additive construction which prints 3D Objects from digital CAD or 3D Models",
+    "Subreddits": "r/3Dprinting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "4th Common Language (Spanish)",
+    "Description": "The second most natively spoken and fourth most spoken language overall. The primary language in Spain, Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Ecuador (Castilian), El Salvador, Equatorial Guinea (the only African country which speaks mostly Spanish though there are many Fang and Portugese speakers), Guatemala, Honduras (Honduran), Mexico, Nicaragua, Panama, Peru,  Uruguay, Venezuela.",
+    "Subreddits": "r/learnspanish/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "5th Common Language (French)",
+    "Description": "The fifth most spoken language worldwide, though most speakers are non native. Primary language of Benin (though they have a lot of Fon and Yoruba group languages), Burkina Faso, Cameroon, The Democratic Republic of Congo, Côte d’Ivoire/Ivory Coast (though Baule is highly spoken as well and the country has many languages), Gabon (though Fang is spoken heavily there as well), Monaco, Togo (though many speak Ewe as well). Useful in West, Central and South Africa.",
+    "Subreddits": "r/learnfrench/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "6th Common Language (Arabic)",
+    "Description": "The sixth most spoken language in the world. The primary language of Algeria, Bahrain, Chad, Egypt, Iraq, Jordan, Kuwait (though almost half speak English as well), Lebanon (many also speak French), Libya, Mauritania (a good number speak French too), Morocco (though most speak French as well), Oman, Qatar (though many speak English), Saudi Arabia, Sudan, Syria, Tunisia (though most also speak French), the United Arab Emirates, Western Sahara and Yemen. Spoken widely in the Middle East and Northern Africa.",
+    "Subreddits": "r/learn_arabic/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "7th Common Language (Bengali/Bangla)",
+    "Description": "The seventh most spoken language in the world. The primary language of Bangaladesh. Spoken in Bangaladesh, as part of the 21 regional Indian languages and Sierra Leone.",
+    "Subreddits": "r/learn_bengali/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "8th Common Language (Russian)",
+    "Description": "The eighth most spoken language in the world. The primary language of Russia, Belarus, the detached Kalniningrad Oblast Region and Kazakhstan. Widespread in Eastern Europe.",
+    "Subreddits": "r/russian/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "9th Common Language (Portugese)",
+    "Description": "The ninth most spoken language in the world. The primary language of Portugal, Angola, Brazil, Mozambique (though a good number also speak Makhuwa), Sao Tome & Principe (though many speak Forro). Useful in Central Africa.",
+    "Subreddits": "r/Portuguese/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Acting (General)",
+    "Description": "Portraying a character in a dramatic work of fiction, such as a play or film",
+    "Subreddits": "r/acting",
+    "Equipment": "None",
+    "Tags": "Drama, Voice"
+  },
+  {
+    "Name": "Acting (Miming/Pantomime)",
+    "Description": "Portraying a character without speaking, which originated in Greece",
+    "Subreddits": "",
+    "Equipment": "None",
+    "Tags": "Drama"
+  },
+  {
+    "Name": "Acting (Voice)",
+    "Description": "Portraying a character using only your voice, typically for animated films, podcasts or audiobooks",
+    "Subreddits": "r/VoiceActing",
+    "Equipment": "None",
+    "Tags": "Drama, Voice"
+  },
+  {
+    "Name": "Adventure Racing",
+    "Description": "",
+    "Subreddits": "r/AdventureRacing/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Outdoor"
+  },
+  {
+    "Name": "Africa Central: Language (Fang)",
+    "Description": "A language spoken heavily in Equatorial Guinea and Gabon by the Fang people as part of the Bantu language group",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Central:Language (Forro)",
+    "Description": "A language heavily spoken in Sao Tome & Principe",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Central:National Language (Sangho)",
+    "Description": "Primary language of the Central African Republic (though there is a lot of French there too). Spoken in Sao Paolo in Brazil and the Central African Republic",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Easterm:National Language (Oromo)",
+    "Description": "The primary language of Ethiopia (though Amharic is spoken almost as much and is more associated generally with the country). Spoken by the Oromo people",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:Language (Afar)",
+    "Description": "One of the languages spoken in Djibouti by the Afar ethnic group",
+    "Subreddits": "r/Afar/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:Language (Amharic)",
+    "Description": "Spoken in Ethiopia",
+    "Subreddits": "r/amharic/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:Language (Nyanja)",
+    "Description": "A very common language in Zambia",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Bemba)",
+    "Description": "The primary language of Zambia (though Nyanja is almost as possible)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Chewa/Chichewa)",
+    "Description": "Primary language of Malawi (though a good number speak English as well). Spoken in Malawi, Zimbabew, Mozambique and Zambia as one of the Bantu languages",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Comorian/Shikomoro)",
+    "Description": "Primary language of the Comoros as one of the Bantu Languages",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Creole - Mauritius)",
+    "Description": "The primary language of Mauritius (though most speak French and some speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Creole - Seychelles)",
+    "Description": "The primary language of the Seychelles (the most also speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Kinyarwanda)",
+    "Description": "The primary language of Rwanda. Spoken in Rwanda, the Democratic Republic of Congo and Uganda",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Kirundi)",
+    "Description": "The primary language of Burundi. Spoken in Burundi, Tanzania, the Democratic Republic of Congo and Uganda",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Luganda)",
+    "Description": "The primary language of Uganda (though many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Marshallese)",
+    "Description": "Primary language spoken in the Marshall Islands and Mauritius",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Nuer/Dinka)",
+    "Description": "The primary closesly related languages of South Sudan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Somali)",
+    "Description": "Primary language of Djibouti (though Afar is spoken nearly as much), Somalia and Somaliland (though a good number in Somalia and Somaliland speak Arabic).",
+    "Subreddits": "r/LearnSomali",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Swahili)",
+    "Description": "The primary language of Kenya (though other Bantu languages like Kikuyu, Oluhyia and Kamba are very common as well as Nilotic group languages). Spoken in Kenya, Rwanda, Tanzania (though not spoken much as there isn't much of a primary language there) and Uganda",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:National Language (Tigrinya)",
+    "Description": "The primary language of Eritrea (though Tigre/Dahlik is heavily spoken there too). Spoken in Eritrea",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Eastern:Native Language (Makhuwa/Makua)",
+    "Description": "The native language of the Makua people who make up the largest ethnic group in Mozambique, a Bantu language",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern: National Language (Tswana/Setswana)",
+    "Description": "The primary language of Botswana.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern:Language (Afrikaans)",
+    "Description": "Spoken widely in South Africa and Namibia",
+    "Subreddits": "r/LearnAfrikaans/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern:National Language (Malagasy)",
+    "Description": "Primary language of Madagascar (though a good number can speak French)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern:National Language (Oshiwambo)",
+    "Description": "The primary language of Namibia primarily spoken by the Ovambo ethnic group",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern:National Language (Sotho/Sesotho/Southern Sotho)",
+    "Description": "Primary language of Lesotho. Spoken in Lesotho and South Africa as part of the Bantu langague group",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern:National Language (Swazi/siSwazi)",
+    "Description": "Primary language of Eswatini (formerly called Swaziland). Spoken in Eswatini and South Africa by the Nguni people as part of the Bantu language group",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Southern:National Language (Zulu)",
+    "Description": "The primary language of South Africa (though Xhosa, Afrikaans and English are understood in urban areas as there isn't much informity of language overall in the country)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western: National Language (Mossi)",
+    "Description": "The primary language of Burkina Faso as part of the Gur Languages (though French is the official language it isn't widely used).",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Akan)",
+    "Description": "Spoken heavily in Ghana by the Aja people",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Baule/Bawule)",
+    "Description": "A language spoken heavily in Ivory Coast",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Ewe)",
+    "Description": "Spoken heavily in Ghana and Togo",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Fulfulde/Maasina)",
+    "Description": "Heavily spoken in Mali by the Fula people of the Senegambian language group",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Mende)",
+    "Description": "A language spoken heavily in southern Sierra Leone",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Soninke/Marka/Maraka)",
+    "Description": "Spoken heavily in Mali. Spoken in Mali, Mauritania and Senegal as part of the Mande languages",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Language (Yoruba)",
+    "Description": "Spoken heavily in Nigeria and also in Benin by the Yoruba people",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Bambara/Bamanankan)",
+    "Description": "Primary language of Mali (though a decent number speak French) by it's primary ethnic group the Bambara people as one of the Manding Languages",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Creole - Cape Verde)",
+    "Description": "The primary language of Guinea-Bissau",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Creole - Sierra Leone/Krio)",
+    "Description": "The primary language of Sierra Leone (though many speak Temne and Mende)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Fula/Pular)",
+    "Description": "Primary language of Guinea. Spoken heavily in The Gambia. Spoken in Benin, Burkina Faso, Guineau, Mali, Mauritania, Niger and Sengeal",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Hausa)",
+    "Description": "The primary language of Niger of the Hausa people. It is also heavily spoken in Nigeria.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Mandinka/Mandingo)",
+    "Description": "Primary language of The Gambia (though Fula and Wolof are heavily spoken there as well). Also spoken by Senegal and Guinea.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:National Language (Wolof)",
+    "Description": "The primary language of Senegal (a good number also speak French). Also spoken in Mauritania.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Africa Western:Native Language (Kpelle)",
+    "Description": "Spoken by the largest native group in Liberia the Kpelle people and in Guinea as part of thr Mande family of languages",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Airsoft (Airsoft Guns)",
+    "Description": "",
+    "Subreddits": "r/airsoft/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Alcohol (Beer)",
+    "Description": "A barley fermented drinkof low alcohol content commonly drank worldwide",
+    "Subreddits": "r/beer/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Cocktails/Mixology)",
+    "Description": "Distilled spirits mixed with syrups, bitters and juices to create food products from alcohol",
+    "Subreddits": "r/Mixology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Drinking Games - Beer Pong)",
+    "Description": "",
+    "Subreddits": "r/beerpong/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Alcohol (Drinking Games - General)",
+    "Description": "",
+    "Subreddits": "r/DrinkingGames/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Alcohol (Gin)",
+    "Description": "A juniper and sage based distilled spirit associated with the united kingdom, it has a much higher alcohol content then beer or wine",
+    "Subreddits": "r/Gin/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Homebrewing)",
+    "Description": "Creating alcoholic drinks at home",
+    "Subreddits": "r/Homebrewing",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Mead)",
+    "Description": "Wine made from honey",
+    "Subreddits": "r/mead/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Rum)",
+    "Description": "A sugarcane based distilled spirit associated with the carribean, it has a much higher alcohol content then beer or wine",
+    "Subreddits": "r/rum/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Tequila/Mezcal)",
+    "Description": "An agave based distilled spirit associated with mexico, it has a much higher alcohol content then beer or wine",
+    "Subreddits": "r/tequila/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Whisky/ey - General)",
+    "Description": "A corn or barley based distilled spirit associated with america, ireland and scotland, it has a much higher alcohol content then beer or wine",
+    "Subreddits": "r/whiskey/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Alcohol (Wine/Winemaking)",
+    "Description": "A grapes based fermented drink of higher alcohol content then beer",
+    "Subreddits": "r/wine/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Amateur Therapy (General)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Amateur Therapy (Relationships)",
+    "Description": "",
+    "Subreddits": "r/relationship_advice/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Animal Training (Carrier/Homing Pigeon)",
+    "Description": "",
+    "Subreddits": "r/pigeon/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Animal Training (Dogs)",
+    "Description": "",
+    "Subreddits": "r/Dogtraining/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Animal Training (Falconry)",
+    "Description": "",
+    "Subreddits": "r/Falconry/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Animation (Stop Motion)",
+    "Description": "Creating films using a sequence of posed photographs to create the illusion of movement, such as in Wallace & Gromit or Robot Chicken",
+    "Subreddits": "r/stop_motion",
+    "Equipment": "Camera, Editing Software",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Animation (Traditional)",
+    "Description": "Creating films using a sequence of hand drawn images to create the illusion of movement, such as in early disney works, american cartoons or in Japanese animation",
+    "Subreddits": "r/learnanimation",
+    "Equipment": "Pencil/Pen, Paper, Editing Software",
+    "Tags": "Solo, Sedentary, Indoor, Cartoons"
+  },
+  {
+    "Name": "Aquarium (Aquascape Art)",
+    "Description": "Maintaing a water tank based environment where the focus is on the aesthetic and appearance of things within the tank",
+    "Subreddits": "r/Aquascape",
+    "Equipment": "Aquarium Tank, Aqautic Plants",
+    "Tags": "Solo, Sedentary, Indoor, Water"
+  },
+  {
+    "Name": "Aquarium (General)",
+    "Description": "Maintaing a water tank based environment with many sub-disciplines",
+    "Subreddits": "r/Aquariums",
+    "Equipment": "Aquarium Tank, Aqautic Plants",
+    "Tags": "Solo, Sedentary, Indoor, Water"
+  },
+  {
+    "Name": "Aquarium (Jars/Self-Sustaining)",
+    "Description": "Aquarium (Jars/Self-Sustaining)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Aquarium (Plants)",
+    "Description": "Maintaing a water tank based environment where the focus is on cultivating underwater plants",
+    "Subreddits": "r/PlantedTank",
+    "Equipment": "Aquarium Tank, Aqautic Plants",
+    "Tags": "Solo, Sedentary, Indoor, Water"
+  },
+  {
+    "Name": "Aquarium (Reef)",
+    "Description": "Maintaing a salt water tank based environment, typically which salt water creatures",
+    "Subreddits": "r/ReefTank",
+    "Equipment": "Aquarium Tank, Aqautic Plants, Salt Water Reef Fish",
+    "Tags": "Solo, Sedentary, Indoor, Water"
+  },
+  {
+    "Name": "Archaeology",
+    "Description": "",
+    "Subreddits": "r/Archaeology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Archery (General)",
+    "Description": "",
+    "Subreddits": "r/Archery",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Archery (Traditional)",
+    "Description": "",
+    "Subreddits": "r/TraditionalArchery",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Architecture",
+    "Description": "The art and design of creating buildings",
+    "Subreddits": "r/architecture",
+    "Equipment": "Pencil/Pen, Paper",
+    "Tags": "Solo, Buildings"
+  },
+  {
+    "Name": "Artificial Intelligence/Machine Learning (General)",
+    "Description": "",
+    "Subreddits": "r/artificial/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:National Language (Kyrgyz)",
+    "Description": "Primary language of Kyrgyzstan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:National Language (Persian)",
+    "Description": "The primary language of Iran(Farsi) and Afghanistan. Also spoken in Tajikistan",
+    "Subreddits": "r/farsi/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:National Language (Punjabi)",
+    "Description": "The ninth most natively spoken language in the world. The primary language of Pakistan. Spoken in India",
+    "Subreddits": "r/punjabi",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:National Language (Tajik)",
+    "Description": "The primary language of Tajikistan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:National Language (Turkmen)",
+    "Description": "The primary language of Turkmenistan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:National Language (Uzbek)",
+    "Description": "Primary language in Uzbekistan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Central:Native Language (Kazakh)",
+    "Description": "The native language of Kazakhstan (though slightly more speak Russian). Spoken in Kazakhstan",
+    "Subreddits": "r/kazakh/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Eastern:Language (Cantonese)",
+    "Description": "Spoken in Hong Kong and Macau",
+    "Subreddits": "r/Cantonese/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Eastern:National Language (Japanese)",
+    "Description": "The eighth most natively spoken language in the world. The primary language of Japan and Palau.",
+    "Subreddits": "r/LearnJapanese/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Eastern:National Language (Korean)",
+    "Description": "The primary language of North and South Korea.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Eastern:National Language (Mongolian)",
+    "Description": "Primary language in Mongolia (Khalkha dialect is most common)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Eastern:Native Language (Hokkien Taiwanese)",
+    "Description": "A language spoken nearly as much in Taiwan as Mandarin and aggresively pushed over Mandarin, likely due to Taiwan's adversarial relation with China",
+    "Subreddits": "r/ohtaigi/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:Language (Javanese)",
+    "Description": "Primary native language of Indonesia. Spoken in Java (though Indonesian and Sudanese are heavily present on the other islands since most islands have their own language).",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Burmese)",
+    "Description": "Spoken in Myanmar (formerly called Burma)",
+    "Subreddits": "r/LearnBurmese/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Filipino Tagalog)",
+    "Description": "A version of Tagalog that is called Filipino occasionally (I think). The primary language of the Philipines (though the philipines have about 187 languages so they have a ton)",
+    "Subreddits": "r/Tagalog",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Indonesian)",
+    "Description": "The tenth most spoken language in the world. The primary language of Indonesia.",
+    "Subreddits": "r/indonesian",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Khmer)",
+    "Description": "Primary language of Cambodia. Spoken in Cambodia",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Lao)",
+    "Description": "Primary language of Laos",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Malay)",
+    "Description": "The primary language of Malaysia (which has an insane number of spoken languages and a good amount of English and Hokkien Chinese speakers) and Brunei. Also spoken in Singapore and Indonesia.",
+    "Subreddits": "r/bahasamelayu",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Thai)",
+    "Description": "Primary language spoken in Thailand",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Language (Vietnamese)",
+    "Description": "Primary language in Vietnam (though most speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Lanugage (Creole - Singapore/Singlish)",
+    "Description": "The primary language of Singapore (though many speak Singaporean Mandarin Chinese)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia South Eastern:National Lanugage (Tetum-Dili)",
+    "Description": "The primary language of East Timor (though Mambai and Makase are spoken heavily and the country has many languages)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:Language (Maithili)",
+    "Description": "A language heavily spoken in Nepal in Mithila region",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:National Language (Dhivehi)",
+    "Description": "Primary language spoken in the Maldives (though many speak English as well)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:National Language (Marathi)",
+    "Description": "The tenth most natively spoken language in the world. Spoken in India.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:National Language (Nepali)",
+    "Description": "Primary langauge of Nepal (though Maithali and many other languages are spoken as well)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:National Language (Sinhala)",
+    "Description": "The primary language of Sri Lanka (many also speak Tamil and English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:National Language (Tshangla)",
+    "Description": "The primary language of Bhutan. Spoken mostly in the east.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Asia Southern:Official Language (Dzongkha)",
+    "Description": "The official language of Bhutan. Spoken in Bhutan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Astronomy (Space)",
+    "Description": "",
+    "Subreddits": "r/Astronomy/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Augmented Reality/AR",
+    "Description": "Interactive experiences where the real world is enhanced by a digital input, commonly as a projection over live video",
+    "Subreddits": "r/augmentedreality",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Backgammon",
+    "Description": "",
+    "Subreddits": "r/backgammon/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Backpacking (General)",
+    "Description": "",
+    "Subreddits": "r/backpacking/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Backpacking (Ultralight)",
+    "Description": "",
+    "Subreddits": "r/Ultralight/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Badminton",
+    "Description": "",
+    "Subreddits": "r/badminton/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Bake Sales",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Baking (Bread)",
+    "Description": "Creating flour based food products from wheat family grains",
+    "Subreddits": "r/Breadit/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Baking (General)",
+    "Description": "Creating food products using yeast and an oven to allow dough to rise",
+    "Subreddits": "r/Baking/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Baking (Ginger Bread House)",
+    "Description": "Using baked ginger bread to make works of art",
+    "Subreddits": "r/GingerbreadHouses/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Bar Hopping",
+    "Description": "",
+    "Subreddits": "r/Bar",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Bartending",
+    "Description": "",
+    "Subreddits": "r/bartenders/",
+    "Equipment": "",
+    "Tags": "Group, Active"
+  },
+  {
+    "Name": "Basket Weaving",
+    "Description": "Weaving or sewing (typically) natural fibers into baskets, mats, mesh bags or furniture",
+    "Subreddits": "r/BasketWeaving",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo, Crafts"
+  },
+  {
+    "Name": "Baton Twirling",
+    "Description": "Using the body to spin a metal rod in a coordinated routine",
+    "Subreddits": "r/batontwirling",
+    "Equipment": "",
+    "Tags": "Active, Solo"
+  },
+  {
+    "Name": "Beachcombing",
+    "Description": "",
+    "Subreddits": "r/beachcombing/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Beatboxing",
+    "Description": "A form of vocal percussion which mimmicks drum machines without the use of an external instrument",
+    "Subreddits": "r/beatbox/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Beauty Pageants",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Biking (BMX - General)",
+    "Description": "",
+    "Subreddits": "r/bmx/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Competitive"
+  },
+  {
+    "Name": "Biking (BMX - Trials)",
+    "Description": "",
+    "Subreddits": "r/biketrials/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Competitive"
+  },
+  {
+    "Name": "Biking (Cycling/Road)",
+    "Description": "",
+    "Subreddits": "r/cycling/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Biking (General)",
+    "Description": "",
+    "Subreddits": "r/Biking/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Biking (Mountain)",
+    "Description": "",
+    "Subreddits": "r/mountainbiking/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Biking (Touring)",
+    "Description": "",
+    "Subreddits": "r/bicycletouring/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Billiards (Pool)",
+    "Description": "",
+    "Subreddits": "r/billiards/",
+    "Equipment": "",
+    "Tags": "Group, Active, Indoor,  Competitive"
+  },
+  {
+    "Name": "Biology (Animals)",
+    "Description": "",
+    "Subreddits": "r/biology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Boat Building",
+    "Description": "",
+    "Subreddits": "r/boatbuilding/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Boating (General)",
+    "Description": "",
+    "Subreddits": "r/boating/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Book Clubs",
+    "Description": "",
+    "Subreddits": "r/bookclub",
+    "Equipment": "",
+    "Tags": "Group, Sedentary"
+  },
+  {
+    "Name": "Bookbinding",
+    "Description": "Physically assembling a book or codex using various methods",
+    "Subreddits": "r/bookbinding",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo, Crafts"
+  },
+  {
+    "Name": "Botany (Plants)",
+    "Description": "",
+    "Subreddits": "r/botany/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Botox",
+    "Description": "Botulism toxin injections, which are used to smoothen wrinkles and create a youthly appearance",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Bouldering",
+    "Description": "",
+    "Subreddits": "r/bouldering",
+    "Equipment": "",
+    "Tags": "Solo, Active, Indoor"
+  },
+  {
+    "Name": "Bowling",
+    "Description": "",
+    "Subreddits": "r/Bowling/",
+    "Equipment": "",
+    "Tags": "Group, Active, Indoor,Competitive"
+  },
+  {
+    "Name": "Boxing",
+    "Description": "",
+    "Subreddits": "r/Boxing/",
+    "Equipment": "",
+    "Tags": "Group, Active, Indoor, Competitive"
+  },
+  {
+    "Name": "Building/Assembly (Watchmaking)",
+    "Description": "",
+    "Subreddits": "r/watchmaking//",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Bullet journaling",
+    "Description": "",
+    "Subreddits": "r/bulletjournal/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Calligraphy",
+    "Description": "A visual art involving the aesthetic writing of words and sentences",
+    "Subreddits": "r/Calligraphy",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Camping",
+    "Description": "",
+    "Subreddits": "r/camping/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Candlemaking",
+    "Description": "Imbuing fragrances in and generally creating candles, typically with soy or animal fats",
+    "Subreddits": "r/candlemaking",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo, Crafts"
+  },
+  {
+    "Name": "Card Tricks (Cardistry)",
+    "Description": "The performance art of card flourishing",
+    "Subreddits": "r/cardistry",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Cardmaking",
+    "Description": "Crafting hand made greeting cards",
+    "Subreddits": "r/cardmaking",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo, Crafts"
+  },
+  {
+    "Name": "Cartography/Mapmaking",
+    "Description": "",
+    "Subreddits": "r/mapmaking/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Carving (Ice)",
+    "Description": "Carving sculptures from ice",
+    "Subreddits": "r/IceSculpting",
+    "Equipment": "Ice",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Carving (Wood/Whitling)",
+    "Description": "Carving sculptures from wood",
+    "Subreddits": "r/Woodcarving",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "CB radio",
+    "Description": "",
+    "Subreddits": "r/cbradio/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Checkers",
+    "Description": "",
+    "Subreddits": "r/checkers/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Chess",
+    "Description": "",
+    "Subreddits": "r/chess/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Circus (Aerial)",
+    "Description": "",
+    "Subreddits": "r/Aerials/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Circus (Contortion)",
+    "Description": "Gymnastic performances associated with Circus, such as trapeze, silks or lyra",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Circus (General)",
+    "Description": "",
+    "Subreddits": "r/circus",
+    "Equipment": "",
+    "Tags": "Active"
+  },
+  {
+    "Name": "Circus (Trampoline)",
+    "Description": "",
+    "Subreddits": "r/Trampoline/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Citizen Science",
+    "Description": "",
+    "Subreddits": "r/CitizenScience/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Cleaning (General)",
+    "Description": "",
+    "Subreddits": "r/CleaningTips/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Climbing (Rappeling)",
+    "Description": "",
+    "Subreddits": "r/rappelling/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Outdoor"
+  },
+  {
+    "Name": "Clothesmaking (Corsets)",
+    "Description": "",
+    "Subreddits": "r/corsets/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Clothesmaking (General)",
+    "Description": "Creating clothes and garments",
+    "Subreddits": "r/DIYclothes",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo, Crafts"
+  },
+  {
+    "Name": "Cloud Watching",
+    "Description": "",
+    "Subreddits": "r/CLOUDS/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Coffee",
+    "Description": "A bean tea which can be used directly or ground and mixed with milk and syrups and is high in caffeine",
+    "Subreddits": "r/Coffee/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Collecting (Action Figures)",
+    "Description": "Posable toys originally targeted for youths, which commonly portray characters from cartoons or comic books",
+    "Subreddits": "r/ActionFigures",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Antiquing/Vintage)",
+    "Description": "",
+    "Subreddits": "r/Antiques/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Art)",
+    "Description": "Any form of art, most commonly paintings and typically expensive",
+    "Subreddits": "r/artcollecting",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Badges)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Books)",
+    "Description": "Traditional books",
+    "Subreddits": "r/BookCollecting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Coins)",
+    "Description": "Metal currency, often from different countries of origin",
+    "Subreddits": "r/coincollecting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Comic Books)",
+    "Description": "Panel based visual novels, most commonly from the 80s and 90s and commonly portraying superheroes",
+    "Subreddits": "r/comicbookcollecting",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Crystals)",
+    "Description": "Solid materials whose atomic strucure creates a crystal latice. Many crystal enthusiasts believe crystal exposure has various benefits",
+    "Subreddits": "r/Crystals",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (D&D Dice)",
+    "Description": "Crafted dice used to play tabletop roleplaying games, most commonly Dungeons and Dragons",
+    "Subreddits": "r/DicePorn/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Fossils)",
+    "Description": "",
+    "Subreddits": "r/FossilHunting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Glass Pipes)",
+    "Description": "Glass pipes commonly used for smoking tobacco or marijuana",
+    "Subreddits": "r/glassheads/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Guns)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Knives)",
+    "Description": "Knives crafted via a variety of metalworking techniques and from a plethora of cultures",
+    "Subreddits": "r/knifeclub",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Maps)",
+    "Description": "",
+    "Subreddits": "r/cartography/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Marbles)",
+    "Description": "Small balls made of ... well marble",
+    "Subreddits": "r/Marbles/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Militaria)",
+    "Description": "Military items like badges, uniforms and antique weaponry",
+    "Subreddits": "r/Militariacollecting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Minerals - General)",
+    "Description": "",
+    "Subreddits": "r/mineralcollectors/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Minerals - Radioactive)",
+    "Description": "",
+    "Subreddits": "r/Radioactive_Rocks/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Movie Memoribilia)",
+    "Description": "Props, promotional material and related items relating to films",
+    "Subreddits": "r/AllMovieMemorabilia/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Periodic Elements)",
+    "Description": "Collecting something from each element in the periodic table",
+    "Subreddits": "r/elementcollection/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Sneakers)",
+    "Description": "Limited releases sneakers which are often difficult to procure",
+    "Subreddits": "r/Sneakers/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Sports Cards - Baseball)",
+    "Description": "Cards of professional baseball players",
+    "Subreddits": "r/baseballcards/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Stamps/Philately)",
+    "Description": "Postage stamps for and from different countries",
+    "Subreddits": "r/philately/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Tiki Mugs)",
+    "Description": "Artistic ceramic mugs associated with drinking tiki cocktails",
+    "Subreddits": "r/Tiki/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Collecting (Video Game Controllers - Gamecube)",
+    "Description": "",
+    "Subreddits": "r/customGCC/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Vinyl Records)",
+    "Description": "Classically formatted discs for playing music which some believe sound better than modern digital music",
+    "Subreddits": "r/vinyl/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Collecting (Watches)",
+    "Description": "",
+    "Subreddits": "r/Watches/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Color Guard",
+    "Description": "",
+    "Subreddits": "r/Colorguard/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Competitive Eating",
+    "Description": "",
+    "Subreddits": "r/competitiveeating/",
+    "Equipment": "",
+    "Tags": "Group, Competitive"
+  },
+  {
+    "Name": "Composting",
+    "Description": "",
+    "Subreddits": "r/composting/",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Confectionary (Candy)",
+    "Description": "",
+    "Subreddits": "r/CandyMaking/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Cooking (Cheesemaking)",
+    "Description": "",
+    "Subreddits": "r/cheesemaking/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Cooking (Dry Aging)",
+    "Description": "A technique of aging meats which develops it's flavor",
+    "Subreddits": "r/DryAgedBeef/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Cooking (General)",
+    "Description": "",
+    "Subreddits": "r/Cooking/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Cooking (Grilling)",
+    "Description": "Using a grill to cook and externally char food products, commonly meat and outdoors",
+    "Subreddits": "r/grilling",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Cooking (Ice Cream)",
+    "Description": "",
+    "Subreddits": "r/icecreamery/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Cooking (Sous Vide)",
+    "Description": "A cooking technique where food is cooked in a vacuum sealed bag and heated in super hot water where the temperature is easy to specifically control very easily",
+    "Subreddits": "r/Sous_Vide/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Cooking (Vegan)",
+    "Description": "",
+    "Subreddits": "r/veganrecipes/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Cooking (Vegetarian)",
+    "Description": "",
+    "Subreddits": "r/VegRecipes/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Cornhole",
+    "Description": "",
+    "Subreddits": "r/Cornhole/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Cosplay/Costumes",
+    "Description": "Creating and wearing clothes typically associated with fictional characters from geek culture such as japanese animation or video games",
+    "Subreddits": "r/cosplay",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo, Crafts"
+  },
+  {
+    "Name": "Creative Writing (Prompts)",
+    "Description": "Writing essays and novels based on community provided prompts",
+    "Subreddits": "r/WritingPrompts",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Crocheting",
+    "Description": "Creating the textile works associated with a crochet hook",
+    "Subreddits": "r/crochet",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Croquet",
+    "Description": "",
+    "Subreddits": "r/croquet/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Competitive"
+  },
+  {
+    "Name": "Cryptography (Code Breaking)",
+    "Description": "",
+    "Subreddits": "r/cryptography/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Curling",
+    "Description": "",
+    "Subreddits": "r/Curling/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Competitive"
+  },
+  {
+    "Name": "Dancing (Ballet)",
+    "Description": "A type of highly technical performance dance which originated in the Renaissance known for being dramatic and graceful",
+    "Subreddits": "r/BALLET/",
+    "Equipment": "",
+    "Tags": "Active, Solo, Group"
+  },
+  {
+    "Name": "Dancing (Ballroom)",
+    "Description": "A type of classical partner dance which one can compete in",
+    "Subreddits": "r/ballroom/",
+    "Equipment": "",
+    "Tags": "Active, Group"
+  },
+  {
+    "Name": "Dancing (BBoy/Breakdancing)",
+    "Description": "An athletic type of street dancing known for spinning and floor based moves",
+    "Subreddits": "r/bboy/",
+    "Equipment": "",
+    "Tags": "Active, Solo, Competitive"
+  },
+  {
+    "Name": "Dancing (Belly)",
+    "Description": "",
+    "Subreddits": "r/Bellydance/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Dancing (Capoiera)",
+    "Description": "",
+    "Subreddits": "r/capoeira/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Dancing (Funk Style)",
+    "Description": "A collection of street dances including popping, locking, robot, gliding and krumping",
+    "Subreddits": "r/FunkStyle/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Dancing (Line)",
+    "Description": "A choreographed step based dance commonly associated with honky tonks and american country music",
+    "Subreddits": "r/LineDancing/",
+    "Equipment": "",
+    "Tags": "Active, Group"
+  },
+  {
+    "Name": "Dancing (Pole)",
+    "Description": "An acrobatic dance focused around a pole commonly associated with strip clubs, burlesque and erotic dancing",
+    "Subreddits": "r/poledance/",
+    "Equipment": "",
+    "Tags": "Active, Solo, Erotic"
+  },
+  {
+    "Name": "Dancing (Salsa)",
+    "Description": "A high energy latin partner dance originating in Puerto Rican and Cuban communities",
+    "Subreddits": "r/Salsa/",
+    "Equipment": "",
+    "Tags": "Active, Group"
+  },
+  {
+    "Name": "Dancing (Shuffling)",
+    "Description": "A type of footwork based dance associated with modern music and EDM",
+    "Subreddits": "r/shuffle/",
+    "Equipment": "",
+    "Tags": "Active, Solo, Group"
+  },
+  {
+    "Name": "Dancing (Swing)",
+    "Description": "A type of social dance associated with swing jazz or western music",
+    "Subreddits": "r/SwingDancing/",
+    "Equipment": "",
+    "Tags": "Active, Solo, Group"
+  },
+  {
+    "Name": "Diet (Fasting/Fasted Training)",
+    "Description": "Fasting in order to control inflammation only to when it is useful for muscle building and to reduce digestional distress, especially from auto-immune disorders or allergies",
+    "Subreddits": "r/fasting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Diets (Dairy Free)",
+    "Description": "Avoiding foods containing milk products like cheese and milk",
+    "Subreddits": "r/dairyfree/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Diets (FODMAP)",
+    "Description": "A short term diet that stops and reintroduces short chain sugar based foods known to cause intestinal distress",
+    "Subreddits": "r/fodmap/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Diets (Gluten Free)",
+    "Description": "Avoiding products containing the wheat protein gluten, most commonly flour based products",
+    "Subreddits": "r/glutenfree/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Diets (Intermitent Fasting)",
+    "Description": "",
+    "Subreddits": "r/intermittentfasting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Diets (Keto)",
+    "Description": "Designed to put a body in a rapid weight loss state called ketosis by completing subbing carbs with fats and keeping protein very high",
+    "Subreddits": "r/keto/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Diets (Mediterranean)",
+    "Description": "Based on the traditional diets of those who live around the mediterranean sea, specifically because there is an idea that it can make you live longer",
+    "Subreddits": "r/mediterraneandiet/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Diets (Paleo)",
+    "Description": "Eating based on paleolithic human diets, which avoids food that has been processed in most ways",
+    "Subreddits": "r/Paleo/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Diets (Pescatarian)",
+    "Description": "A vegeterian diet with the exception of fish",
+    "Subreddits": "r/Pescatarian/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Diets (Vegan)",
+    "Description": "Avoiding all animal based food products, for health or ethical reasons",
+    "Subreddits": "r/vegan/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Diets (Vegetarian)",
+    "Description": "Avoiding animal meat but still eating animal food products such as milk and eggs",
+    "Subreddits": "r/vegetarian/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Digital Art (Pixel Art)",
+    "Description": "",
+    "Subreddits": "r/PixelArt/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Diorama",
+    "Description": "Creating miniature 3D replicas in high detail, usually of intricate scenes",
+    "Subreddits": "r/dioramas",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Disc Golf",
+    "Description": "",
+    "Subreddits": "r/discgolf/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Diving (Free)",
+    "Description": "",
+    "Subreddits": "r/freediving/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Diving (General)",
+    "Description": "",
+    "Subreddits": "r/diving/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Diving (Scuba)",
+    "Description": "",
+    "Subreddits": "r/scuba/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Diving (Snorkel)",
+    "Description": "",
+    "Subreddits": "r/snorkeling/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "DJing",
+    "Description": "Mixing and playing recorded electronic music for a live audience",
+    "Subreddits": "r/DJs/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Dog Sports",
+    "Description": "",
+    "Subreddits": "r/k9sports/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Dominoes",
+    "Description": "",
+    "Subreddits": "r/dominoes/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Drawing (General)",
+    "Description": "Using a pen or pencil to create pictures on a medium, typically paper but often digitally in modern times",
+    "Subreddits": "r/drawing",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Drawing (Illustration - Traditional/Digital)",
+    "Description": "",
+    "Subreddits": "r/Illustration/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Driving (ATV/All Terrain Vehicles)",
+    "Description": "",
+    "Subreddits": "r/ATV/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Driving (Camper Vans)",
+    "Description": "",
+    "Subreddits": "r/CamperVans/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Driving (Cars)",
+    "Description": "",
+    "Subreddits": "r/cars/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Driving (Dirtbikes)",
+    "Description": "",
+    "Subreddits": "r/Dirtbikes/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Driving (Motorcycles)",
+    "Description": "",
+    "Subreddits": "r/motorcycles/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Driving (Planes)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Driving (Snowmobile)",
+    "Description": "",
+    "Subreddits": "r/snowmobiling/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Drone Video Production (FPV)",
+    "Description": "High speed drones piloted via flying goggles which can perform acrobatic stunts while filming",
+    "Subreddits": "r/fpv/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Drone Video Production (General)",
+    "Description": "Flying remote controlled helicopters to record aerial footage",
+    "Subreddits": "r/drones",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor, Illegal"
+  },
+  {
+    "Name": "Dungeons and Dragons (General/5th Edition)",
+    "Description": "",
+    "Subreddits": "r/dndnext/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Escape Rooms",
+    "Description": "",
+    "Subreddits": "r/escaperooms",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Competitive"
+  },
+  {
+    "Name": "Esports",
+    "Description": "",
+    "Subreddits": "r/esports/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Competitive"
+  },
+  {
+    "Name": "Europe Central:National Language (Czech)",
+    "Description": "Primary language of The Czech Republic. Spoken in the Czech Republic and Slovakia",
+    "Subreddits": "r/learnczech/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Central:National Language (German)",
+    "Description": "Primary language of Austria (though most also spek English), Germany (though about half know English), Liechtenstein (though there is a lot of English) and Switzerland (though many speak French and most speak English also). Also spoken in Belgium, Brazil, Luxembourg, Italy and Nambia.",
+    "Subreddits": "r/German",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Central:National Language (Hungarian)",
+    "Description": "Primary language of Hungary.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Central:National Language (Polish)",
+    "Description": "Spoken in Poland (though a good number speak English)",
+    "Subreddits": "r/learnpolish/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Central:National Language (Slovak)",
+    "Description": "The primary language of Slovakia (though many speak English). Spoken in Slovakia and the Czech Republic",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Central:National Language (Slovene)",
+    "Description": "The primary language of Slovenia",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Eastern:Language (Moldovan)",
+    "Description": "Spoken in Moldova and Transnistria",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Eastern:National Language (Estonian)",
+    "Description": "The primary language of Estonia (though many speak Russian as well). Spoken in Estonia",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Eastern:National Language (Latvia)",
+    "Description": "Primay language spoken in Latvia (though many speak Russian as well)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Eastern:National Language (Lithuanian)",
+    "Description": "Primary language in Lithuania (though most also speak Russian and a good number English)",
+    "Subreddits": "r/LithuanianLearning/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Eastern:National Language (Ukrainian)",
+    "Description": "Primary language in Ukraine (though many speak Russian) and Transnitria",
+    "Subreddits": "r/ukrainian",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Northern:National Language (Finnish)",
+    "Description": "The primary language of Finland (thought nearly all also speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Northern:National Language (Norwegian)",
+    "Description": "Primary language of Norway (though nearly the same number of english speakers)",
+    "Subreddits": "r/norsk",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Northern:National Language (Swedish)",
+    "Description": "The primary language of Sweden (though most speak English and were ranked #1 in English proficiency for many years). Also spoken in Finland and Aland.",
+    "Subreddits": "r/Svenska/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:Language (Montenegrin)",
+    "Description": "Spoken in Montenegro",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Albanian)",
+    "Description": "The primary language of Albania and Kosovo. Also spoken in Montenegro and North Macedonia",
+    "Subreddits": "r/Albanian_language/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Armenian)",
+    "Description": "The primary language of Armenia. Spoken in Armenia and the Artsakh region of Azerbaijan",
+    "Subreddits": "r/hayeren",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Bosnian)",
+    "Description": "Primarily spoken in Bosnia (though they have a lot of Serbian). Spoken in Bosnia and Herzegovina. The language is very similar to Serbian and Croatian.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Croatian)",
+    "Description": "Primary language of Croatia. Spoken in Croatia and Bosnia-Herzegovinia. The language is very similar to Bosnian and Serbian.",
+    "Subreddits": "r/croatian",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Macedonian)",
+    "Description": "Primary language of North Macedonia (a good number also speak Albanian)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Romanian)",
+    "Description": "Primary language in Romania (though many speak English) and Moldova (Moldovan)",
+    "Subreddits": "r/romanian/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe South Eastern:National Language (Serbian)",
+    "Description": "Primary language of Serbia (though a good number know English as well) and Montenegro (though nearly as many speak Montenegrin also). Spoke additionally in Bosnia & Herzegovinia and Kosovo. The language is very similar to Bosnian and Croatian.",
+    "Subreddits": "r/Serbian",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Southern:National Language (Greek)",
+    "Description": "Primary language of Greece and Cyprus. Spoken in Greece, Cyprus and Albania",
+    "Subreddits": "r/GREEK/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Southern:National Language (Italian)",
+    "Description": "The primary language of Italy, San Marino and Vatican City. Also spoken also in Croatia, Slovenia and Switzerland.",
+    "Subreddits": "r/italianlearning",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Southern:National Language (Maltese)",
+    "Description": "Primary language of Malta",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Western:Language (Irish/Irish-Gaelic/Gaelige)",
+    "Description": "The native language of Ireland (though mostly spoken in the Republic of Ireland and almost the entire population speaks English as a first language as well).",
+    "Subreddits": "r/gaeilge/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Western:National Language (Danish)",
+    "Description": "Primary language spoken in Denmark (though almost all speak English and many German). Also spoken in the Faroe Islands",
+    "Subreddits": "r/danishlanguage",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Western:National Language (Dutch)",
+    "Description": "The primary language of the Netherlands (though almost all can speak English there as well) and Belgium. Spoken in Flanders, Brussels, Aruba, Curacao, Sint Maarten and Suriname",
+    "Subreddits": "r/learndutch",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Europe Western:National Language (Luxembourgish)",
+    "Description": "Primary language spoken in Luxembourg (though about half also speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Event Planning (Parties)",
+    "Description": "",
+    "Subreddits": "r/partyplanning/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Event Planning (Wedding - AUS)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Event Planning (Wedding - CA)",
+    "Description": "",
+    "Subreddits": "r/weddingplanningcanada/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Event Planning (Wedding - General)",
+    "Description": "",
+    "Subreddits": "r/weddingplanning/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Exercise (Bodybuilding)",
+    "Description": "Performing high resistance exercises to improve muscle size and shape",
+    "Subreddits": "r/bodybuilding/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Exercise (Bodyweight)",
+    "Description": "Bodybuilding without using gym equipment",
+    "Subreddits": "r/bodyweightfitness",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Exercise (Calisthenics)",
+    "Description": "Bodyweight exercise commonly employing bars, such as those available at jungle gyms and outdoor fitness areas",
+    "Subreddits": "r/Calisthenic/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Exercise (Crossfit)",
+    "Description": "A cross disciplinary fitness style which tests a multitude of strengths and athleticisms, sometimes competitively",
+    "Subreddits": "r/crossfit/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Competitive"
+  },
+  {
+    "Name": "Exercise (General Fitness)",
+    "Description": "Exercising to increase physical and cardiovascular strength and endurance",
+    "Subreddits": "r/Fitness/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active"
+  },
+  {
+    "Name": "Exercise (Jump-Rope)",
+    "Description": "Jumping over a rope in a coordinated and very fast fashion to practice agility and endurance",
+    "Subreddits": "r/jumprope/",
+    "Equipment": "",
+    "Tags": "Active, Solo"
+  },
+  {
+    "Name": "Exercise (Kettlebells)",
+    "Description": "",
+    "Subreddits": "r/kettlebell/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Exercise (Knees Over Toes)",
+    "Description": "Workouts focused on increasing knee strength and flexibility, designed for athletes with knee injuries",
+    "Subreddits": "r/Kneesovertoes/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Exercise (Physical Therapy)",
+    "Description": "Workouts generally focused on correcting imbalances to correct posture or strain based pains",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Exercise (Pilates)",
+    "Description": "A core focused position based workout similar to yoga which sometimes makes use of a specific exercise machine",
+    "Subreddits": "r/pilates/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active"
+  },
+  {
+    "Name": "Exercise (Powerlifting)",
+    "Description": "Focusing on lifting the maximum amount of weight in competition",
+    "Subreddits": "r/powerlifting/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Fabrics (Cross-Stitching)",
+    "Description": "A form of embroidery which uses a pattern to create a variety of pitcures",
+    "Subreddits": "r/CrossStitch",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Embroidery)",
+    "Description": "Using a needle to decorate a fabric using thread or yarn",
+    "Subreddits": "r/embroidery",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Knitting)",
+    "Description": "Using yarn to create fabric or textile based objects",
+    "Subreddits": "r/knitting",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Lace)",
+    "Description": "Creating delicate fabrics in an open web like pattern",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Macrame)",
+    "Description": "Creating textile works using knotting techniques, which commonly are hung",
+    "Subreddits": "r/macrame",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Quilting)",
+    "Description": "Sewing at least three fabrics together (which are typically squared) to produce blankets or other textiles works",
+    "Subreddits": "r/quilting",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Rug/Mat Hooking)",
+    "Description": "Creating and decorating rugs or mats using yarn through a stiff material such as burlap",
+    "Subreddits": "r/rughooking",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Sewing - General)",
+    "Description": "Creating or repairing fabric based works by making stitches with a needle and yarn or with a sewing machine",
+    "Subreddits": "r/sewing",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fabrics (Tapestry)",
+    "Description": "A form of textile art which is woven on a loom to create large images",
+    "Subreddits": "r/Tapestry",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fantasy Sports (American Football)",
+    "Description": "",
+    "Subreddits": "r/fantasyfootball/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Sports"
+  },
+  {
+    "Name": "Fantasy Sports (Basketball)",
+    "Description": "",
+    "Subreddits": "r/fantasybball/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Sports"
+  },
+  {
+    "Name": "Farming (Fish/Pisciculture)",
+    "Description": "",
+    "Subreddits": "r/FishFarming/",
+    "Equipment": "",
+    "Tags": "Active"
+  },
+  {
+    "Name": "Farming (General)",
+    "Description": "",
+    "Subreddits": "r/farming/",
+    "Equipment": "",
+    "Tags": "Active, Outdoor"
+  },
+  {
+    "Name": "Fashion",
+    "Description": "The development of clothing aesthetics that fit certain tastes",
+    "Subreddits": "r/fashion",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Fencing (General)",
+    "Description": "",
+    "Subreddits": "r/Fencing/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Fencing (HEMA/WMA)",
+    "Description": "",
+    "Subreddits": "r/wma/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Filmmaking (Documentaries)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Filmmaking (General)",
+    "Description": "Creating dramatic works using video, most commonly on a digital medium but rarely with film",
+    "Subreddits": "r/Filmmakers",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Fishing (Bass)",
+    "Description": "",
+    "Subreddits": "r/bassfishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Deep Sea/Offshore)",
+    "Description": "",
+    "Subreddits": "r/offshorefishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Flats/Inshore)",
+    "Description": "",
+    "Subreddits": "r/inshorefishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Fly)",
+    "Description": "",
+    "Subreddits": "r/flyfishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (General)",
+    "Description": "",
+    "Subreddits": "r/Fishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Ice)",
+    "Description": "",
+    "Subreddits": "r/IceFishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Kayaking)",
+    "Description": "",
+    "Subreddits": "r/kayakfishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Noodling)",
+    "Description": "",
+    "Subreddits": "r/Noodling/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Fishing (Spear)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Fishing (Trout)",
+    "Description": "",
+    "Subreddits": "r/troutfishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Flower Arranging",
+    "Description": "Collecting and orienting flowers in a group to create aesthetically pleasing displays",
+    "Subreddits": "r/FlowerArranging",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Flower Pressing/Ochibana",
+    "Description": "Pressing and storing dried wild herbs and flowers into a medium which is typically paper based",
+    "Subreddits": "r/PressedFlowers",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Food Tours",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Foosball",
+    "Description": "",
+    "Subreddits": "r/foosball/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Foot Golf",
+    "Description": "",
+    "Subreddits": "r/footgolf/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Foraging (General)",
+    "Description": "",
+    "Subreddits": "r/foraging/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Foraging (Mushrooms)",
+    "Description": "",
+    "Subreddits": "r/MushroomsandForaging/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Gardening (Bonsai)",
+    "Description": "",
+    "Subreddits": "r/Bonsai/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Gardening (Fruit Tree/Grafting/Espalier)",
+    "Description": "",
+    "Subreddits": "r/BackyardOrchard/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Gardening (General)",
+    "Description": "",
+    "Subreddits": "r/gardening/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Indoor, Outdoor"
+  },
+  {
+    "Name": "Gardening (Guerilla)",
+    "Description": "",
+    "Subreddits": "r/GuerrillaGardening/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Illegal"
+  },
+  {
+    "Name": "Gardening (Homesteading)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Gardening (House Plants)",
+    "Description": "",
+    "Subreddits": "r/houseplants/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Indoor, Outdoor"
+  },
+  {
+    "Name": "Gardening (Hydroponics)",
+    "Description": "",
+    "Subreddits": "r/Hydroponics/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Indoor, Outdoor"
+  },
+  {
+    "Name": "Gardening (Marijuana)",
+    "Description": "",
+    "Subreddits": "r/GrowingMarijuana/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Indoor, Outdoor"
+  },
+  {
+    "Name": "Gardening (Mushrooms - Food/Psychoactive)",
+    "Description": "",
+    "Subreddits": "r/MushroomGrowers/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Gardening (Topiary)",
+    "Description": "",
+    "Subreddits": "r/topiary/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Genealogy (Family Trees)",
+    "Description": "",
+    "Subreddits": "r/Genealogy/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Geocaching (Letterboxing)",
+    "Description": "",
+    "Subreddits": "r/geocaching/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Geology (Rocks/Minerals)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Ghost Hunting",
+    "Description": "",
+    "Subreddits": "r/GhostHunting/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Glassblowing (Furnace)",
+    "Description": "Traditional glasswork involving using a super heated furnace that typically yields larger glass vases and works of art",
+    "Subreddits": "r/glassblowing",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Glassblowing (Lampwork/Glass Pipes)",
+    "Description": "A form of glasswork that involves using a torch and yields smaller works like glass pipes",
+    "Subreddits": "r/lampwork",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Glassblowing (Scientific)",
+    "Description": "Glasswork which focuses on creating superior glassworks which can be used for scentific experimentation",
+    "Subreddits": "r/scientificglasswork",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Gliders (Hang-gliding)",
+    "Description": "",
+    "Subreddits": "r/freeflight/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Gliders (Paragliding - Acro)",
+    "Description": "",
+    "Subreddits": "r/freeflight/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Gliders (Paragliding - General)",
+    "Description": "",
+    "Subreddits": "r/freeflight/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Go",
+    "Description": "",
+    "Subreddits": "r/gogame/",
+    "Equipment": "",
+    "Tags": "Solo, Illegal"
+  },
+  {
+    "Name": "Golf",
+    "Description": "",
+    "Subreddits": "r/golf//",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Graffiti",
+    "Description": "A type of street spray paint art which is typically displayed illegally in public view",
+    "Subreddits": "r/Graffiti/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Graphic Design",
+    "Description": "A visual discipline focusing on the effectiveness of aesthetics in achieving an outcome",
+    "Subreddits": "r/graphic_design",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Illegal"
+  },
+  {
+    "Name": "Gymnastics (General)",
+    "Description": "",
+    "Subreddits": "r/Gymnastics/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Outdoor"
+  },
+  {
+    "Name": "Hacking",
+    "Description": "Bypassing digital security, often illegally",
+    "Subreddits": "r/hacking",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Hacky Sack (Footbag)",
+    "Description": "",
+    "Subreddits": "r/footbag/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Hair Care",
+    "Description": "Using products to improve the quality and appearance of one's hair",
+    "Subreddits": "r/Haircare/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Hair Removal (Laser)",
+    "Description": "Using a laser to permanently remove hairs from areas of the body",
+    "Subreddits": "r/LaserHairRemoval/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Hair Removal (Waxing)",
+    "Description": "Using wax to achieve very smooth hair removal",
+    "Subreddits": "r/HairRemoval/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Handball",
+    "Description": "",
+    "Subreddits": "r/Handball/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Herbal Medicine",
+    "Description": "Applying and ingesting various herbs for supposed health effects",
+    "Subreddits": "r/HerbalMedicine/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Herping/Snake Handling",
+    "Description": "",
+    "Subreddits": "r/HerpingPeople/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Hiking (General)",
+    "Description": "",
+    "Subreddits": "r/hiking/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Hiking (Mountaineering/Alpinism)",
+    "Description": "",
+    "Subreddits": "r/Mountaineering/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Hiking (Orienteering)",
+    "Description": "",
+    "Subreddits": "r/orienteering/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Hiking (Thru)",
+    "Description": "",
+    "Subreddits": "r/Thruhiking/",
+    "Equipment": "",
+    "Tags": "Active, Solo"
+  },
+  {
+    "Name": "Holiday Decorating",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Hooping (Hula)",
+    "Description": "The act of twirling a hoop around your waist without the use of your hands and it's commonly associated dances and activities",
+    "Subreddits": "r/Hooping",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Horseback/Equestrian (Dressage)",
+    "Description": "",
+    "Subreddits": "r/Equestrian/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Horseback/Equestrian (Eventing)",
+    "Description": "",
+    "Subreddits": "r/Horses/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Horseback/Equestrian (General)",
+    "Description": "",
+    "Subreddits": "r/Equestrian/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Horseback/Equestrian (Show Jumping)",
+    "Description": "",
+    "Subreddits": "r/showjumping/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Hunting (Deer)",
+    "Description": "",
+    "Subreddits": "r/deerhunting/",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Hunting (General)",
+    "Description": "",
+    "Subreddits": "r/Hunting/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Ice Bathing/Wim Hof",
+    "Description": "Submerging yourself in freezing water for extended amounts of time to better control your body",
+    "Subreddits": "r/BecomingTheIceman/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Ice Skating (Figure)",
+    "Description": "",
+    "Subreddits": "r/FigureSkating/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Ice Skating (General)",
+    "Description": "",
+    "Subreddits": "r/iceskating/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Ice Skating (Nordic)",
+    "Description": "",
+    "Subreddits": "r/nordicskating/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Ice Skating (Speed)",
+    "Description": "",
+    "Subreddits": "r/Speedskating/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Insect Keeping (Ant/Ant Farms)",
+    "Description": "",
+    "Subreddits": "r/antkeeping/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Insect Keeping (Bees)",
+    "Description": "",
+    "Subreddits": "r/Beekeeping/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Accordion)",
+    "Description": "Bellows and keys in one instrument",
+    "Subreddits": "r/Accordion/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Bagpipe)",
+    "Description": "A woodwind instrument fed air from a bag commonly associated with Scotland",
+    "Subreddits": "r/bagpipes",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Banjo)",
+    "Description": "A circular stringed instrument commonly associated with American Bluegrass",
+    "Subreddits": "r/banjo",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Instruments (Bass)",
+    "Description": "A string instrument which covers a low octave common in all forms of music",
+    "Subreddits": "r/Bass",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Bowed Lyres)",
+    "Description": "",
+    "Subreddits": "r/BowedLyres/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Clarinet)",
+    "Description": "A woodwind instrument common in marching bands",
+    "Subreddits": "r/Clarinet",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Drums - Kit)",
+    "Description": "A collection of drums, cymbals and percussive instruments all played in tandem to form the backbone of a song",
+    "Subreddits": "r/drums r/Drumming",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Flute)",
+    "Description": "A reedless woodwind instrument",
+    "Subreddits": "r/Flute",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Instruments (Guitar)",
+    "Description": "A fretted (commonly) six string instrument associated with folk, acoustic, rock and many modern styles of music",
+    "Subreddits": "r/Guitar",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Instruments (Guzheng)",
+    "Description": "",
+    "Subreddits": "r/Guzheng/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Handpan)",
+    "Description": "",
+    "Subreddits": "r/handpan/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Harmonica)",
+    "Description": "A handheld free wind instrument associated with blues, folk and country music",
+    "Subreddits": "r/harmonica",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Harp)",
+    "Description": "A large stringed musical instrument commonly associated with calming music",
+    "Subreddits": "r/harp",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Mandolin)",
+    "Description": "A member of the lute family associated with bluegrass music",
+    "Subreddits": "r/mandolin",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Ocarina)",
+    "Description": "A traditional type of clay or ceramic vessel flute, popularized by the video game The Legend of Zelda: The Ocarina of Time",
+    "Subreddits": "r/Ocarina",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Piano)",
+    "Description": "A stringed keyboard instrument associated with many forms of music historically",
+    "Subreddits": "r/piano/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Piccolo)",
+    "Description": "A half sized flute played in orchestrated music",
+    "Subreddits": "r/piccolo/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Recorder)",
+    "Description": "A type of flute with a whistle mouthpiece",
+    "Subreddits": "r/Recorder",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Saxaphone)",
+    "Description": "A brass woodwind instrument heavily associated with Jazz",
+    "Subreddits": "r/saxophone/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Sitar)",
+    "Description": "An indian plucked string instrument",
+    "Subreddits": "r/Sitar",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Synthesizer)",
+    "Description": "An electronic musical instrument",
+    "Subreddits": "r/synthesizers",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Trumpet)",
+    "Description": "A brass instrument associated with classical and jazz ensembles",
+    "Subreddits": "r/trumpet",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Tuba)",
+    "Description": "A low pitched brass instrument associated with ensembles",
+    "Subreddits": "r/Tuba",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Ukulele)",
+    "Description": "A (commonly) four stringed small fretted instrument associated with hawaiian and island music",
+    "Subreddits": "r/ukelele",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Instruments (Vibraphone)",
+    "Description": "A percussive instrument commonly associated with jazz and tiki music",
+    "Subreddits": "r/vibraphone",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Instruments (Violin/Fiddle)",
+    "Description": "A bowed string instrument (which includes violins) played in a variety of worldwide folk musics",
+    "Subreddits": "r/Fiddle r/violinist",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Interior Decorating (Feng Shui)",
+    "Description": "A type of ancient chinese decorating which is supposed to harmonize an environment with a person",
+    "Subreddits": "r/FengShui",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Interior Decorating/Design (General)",
+    "Description": "The act of decorating an indoor space, typically by furniture selection and placement as well as with various accesories",
+    "Subreddits": "r/interiordecorating/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Jetsurfing",
+    "Description": "",
+    "Subreddits": "r/JetSurfing/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Jewelry Making",
+    "Description": "Creating personal accesories with precious metals and often gem stones",
+    "Subreddits": "r/jewelrymaking/",
+    "Equipment": "",
+    "Tags": "Active, Solo"
+  },
+  {
+    "Name": "Journaling",
+    "Description": "Keeping record of daily activities in any medium, though commonly in writing",
+    "Subreddits": "r/Journaling/",
+    "Equipment": "",
+    "Tags": "Active, Solo"
+  },
+  {
+    "Name": "Juggling (Contact)",
+    "Description": "A style of juggling that focuses on rolling objects throughout the body without tossing them in the air",
+    "Subreddits": "r/contactjuggling/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Juggling (General/Toss)",
+    "Description": "The act of tossing and catching multiple objects into the air in sequence without dropping them",
+    "Subreddits": "r/juggling",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor, Illegal"
+  },
+  {
+    "Name": "Juggling (Kendama)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Kava",
+    "Description": "",
+    "Subreddits": "r/Kava/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Kite Boarding (General)",
+    "Description": "",
+    "Subreddits": "r/Kiteboarding/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Kite Boarding (Kitefoil)",
+    "Description": "",
+    "Subreddits": "r/Kiteboarding/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Kite Flying",
+    "Description": "",
+    "Subreddits": "r/kites/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Knot Tying",
+    "Description": "Tangling rope as art or to create certain functionalities in use, commonly associated with sailing and fishing",
+    "Subreddits": "r/knots",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Kombucha",
+    "Description": "",
+    "Subreddits": "r/Kombucha/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Landscaping",
+    "Description": "",
+    "Subreddits": "r/landscaping/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Language (Scots/Lowland or Broadland Scots)",
+    "Description": "Spoken in Scotland",
+    "Subreddits": "r/scots/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Language (Susu)",
+    "Description": "Spoken heavily in Guinea. Spoken in Guinea and Sierra Leone as part of the Mande language group",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Language (Temne)",
+    "Description": "A language spoken heavily in northern Sierra Leone",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Group, Active, Outdoor"
+  },
+  {
+    "Name": "Language (Welsh)",
+    "Description": "Spoken in Whales in the UK",
+    "Subreddits": "r/learnwelsh/",
+    "Equipment": "",
+    "Tags": "Group, Active, Indoor"
+  },
+  {
+    "Name": "LARPing (Live Action Role Playing)",
+    "Description": "",
+    "Subreddits": "r/LARP/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Laser Tag",
+    "Description": "",
+    "Subreddits": "r/lasertag/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Law (General)",
+    "Description": "",
+    "Subreddits": "r/legaladvice/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Leathercraft (General)",
+    "Description": "Shaping and coloring leather to create works of art",
+    "Subreddits": "r/Leathercraft/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Leathercraft (Whipmaking)",
+    "Description": "",
+    "Subreddits": "r/whipmaking/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Linguistics (Language)",
+    "Description": "",
+    "Subreddits": "r/linguistics/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Lip reading",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Live Performance (Bands)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Live Performance (Circus)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Live Performance (Orchestra)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Live Performance (Plays)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Live Performance (Sports)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Livestreaming",
+    "Description": "Broadcasting and recording video in tandem over the internet, commonly associated with Twitch and video game streaming",
+    "Subreddits": "r/streaming",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Longboarding (Dancing)",
+    "Description": "",
+    "Subreddits": "r/longboarding/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Magnet Fishing",
+    "Description": "",
+    "Subreddits": "r/magnetfishing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Mahjong (General)",
+    "Description": "",
+    "Subreddits": "r/Mahjong/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Mahjong (Riichi)",
+    "Description": "",
+    "Subreddits": "r/riichi/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Makeup (General)",
+    "Description": "Using cosmetics to achieve certain aesthetics, most commonly on the face",
+    "Subreddits": "r/Makeup/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Manufacturing (Machining)",
+    "Description": "Creating metal components and tooling by subtracting material from metal slabs, typically with heavy machinery",
+    "Subreddits": "r/machining",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Marine Biology (Ocean Creatures)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Martial Arts (Aikido)",
+    "Description": "",
+    "Subreddits": "r/aikido/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Martial Arts (Brazilian Jiu Jitsu/BJJ)",
+    "Description": "",
+    "Subreddits": "r/bjj/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Judo)",
+    "Description": "",
+    "Subreddits": "r/judo/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Karate)",
+    "Description": "",
+    "Subreddits": "r/karate/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Kickboxing)",
+    "Description": "",
+    "Subreddits": "r/Kickboxing/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Krav Maga)",
+    "Description": "",
+    "Subreddits": "r/kravmaga/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Kung Fu)",
+    "Description": "",
+    "Subreddits": "r/kungfu/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial arts (MMA)",
+    "Description": "",
+    "Subreddits": "r/MMA/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Muay Thai)",
+    "Description": "",
+    "Subreddits": "r/MuayThai/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Martial Arts (Taekwondo)",
+    "Description": "",
+    "Subreddits": "r/taekwondo/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Massage (Acupuncture)",
+    "Description": "A chinese massage pratice involving placing subtle needles in the skin to relieve pain and stress",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Massage (General)",
+    "Description": "Pushing and pulling tactically on muscles to reduce pain and increase performance",
+    "Subreddits": "r/massage/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Active"
+  },
+  {
+    "Name": "Matchmaking",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Group, Sedentary"
+  },
+  {
+    "Name": "Mechanic",
+    "Description": "",
+    "Subreddits": "r/MechanicAdvice/ r/autorepair/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Mechanical Keyboards",
+    "Description": "Buildling and customizing mechanical keyboards",
+    "Subreddits": "r/mechanicalkeyboards",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Meditation (General)",
+    "Description": "A variety of sedentary practices which silence and focus the mind",
+    "Subreddits": "r/Meditation/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Metal Detecting",
+    "Description": "",
+    "Subreddits": "r/metaldetecting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Meteorology (Weather)",
+    "Description": "",
+    "Subreddits": "r/meteorology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Microbiology (Micro Organisms)",
+    "Description": "",
+    "Subreddits": "r/microbiology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Middle East:National Language (Azerbaijani)",
+    "Description": "The primary language of Azerbaijan. Spoken in Azerbaijan",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Middle East:National Language (Georgian)",
+    "Description": "Primary language of Georgia. Spoken in Georgia, South Ossetia and Abkhazia",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Middle East:National Language (Turkish)",
+    "Description": "The primary language of Turkey, Cyprus and the Turkish Repiblic of Northern Cyrpus",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Military Care Package (Sandboxing)",
+    "Description": "",
+    "Subreddits": "r/SandBoxxit/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Miscellaneous Sports",
+    "Description": "",
+    "Subreddits": "r/theocho/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Model Building (Cars)",
+    "Description": "Assembling and decorating miniature replicas of cars",
+    "Subreddits": "r/ModelCars/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Model Building (Gundam/Gunpla)",
+    "Description": "Assembling and decorating miniature replicas of robots from the anime, Gundam",
+    "Subreddits": "r/Gunpla/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Model Building (Lego)",
+    "Description": "Creating works of art using the classic plastic construction toy, Lego",
+    "Subreddits": "r/lego",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Model Building (Train/Railways)",
+    "Description": "Assembling and decorating miniature replicas of trains and railways, usually with an electronic component to run them",
+    "Subreddits": "r/modeltrains",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Modeling",
+    "Description": "The act of being videod or photographed for aesthetic purposes",
+    "Subreddits": "r/MODELING",
+    "Equipment": "",
+    "Tags": "Active, Solo, Group"
+  },
+  {
+    "Name": "Monopoly",
+    "Description": "",
+    "Subreddits": "r/monopoly/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Motivating",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Nail Art",
+    "Description": "The decorating, enhancement and embelishment of nails",
+    "Subreddits": "r/RedditLaqueristas",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "National Language (Bulgarian)",
+    "Description": "The primary language of Bulgaria.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - Guinea-Bissau/Kriol)",
+    "Description": "The primary language of Guyana, which is english mixed with words from many other languages.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - Haitian)",
+    "Description": "The primary language of Haiti (though French is spoken nearly as much)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - Sranan Togo)",
+    "Description": "The primary language of St.Vincent & Grenadines  (though as many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - St. Vincent & Grenadines)",
+    "Description": "The primary language of Tobago in Trinidad & Tabgo (though as many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - Suriname)",
+    "Description": "The primary language of Suriname (though most also speak Suriname Dutch)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - Tobago)",
+    "Description": "The primary language of Trinidad in Trinidad & Tobago (though as many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole - Trinidadian)",
+    "Description": "The primary language of Saint Kitts & Nevis (though as many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Creole- St. Kitts & Nevis)",
+    "Description": "The primary language of Cape Verde",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Guarani)",
+    "Description": "Primary language of Paraguay (though almost the same number speak Spanish). Also spoken in Bolivia.",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "National Language (Icelandic)",
+    "Description": "Primary language of Iceland (though a majority also speaks English).",
+    "Subreddits": "r/learnIcelandic/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Needle Felting",
+    "Description": "",
+    "Subreddits": "r/Needlefelting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Netball",
+    "Description": "",
+    "Subreddits": "r/netball/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Neuroscience (Cognition)",
+    "Description": "",
+    "Subreddits": "r/neuroscience/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Nutrition",
+    "Description": "Intentionally eating to promote greater overall health rather than exclusively pleasure",
+    "Subreddits": "r/nutrition",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Oceania Melanesia:National Language (Bislama)",
+    "Description": "The primary language of Vanuatu (though most speak English and the country has the highest density of languages per capita of anywhere in the world)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Melanesia:National Language (Creole - Solomon Islands/Pidgin)",
+    "Description": "The primary language of the Solomon Islands (though there are many languages depending on which island you are on)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Melanesia:National Language (Fiijan)",
+    "Description": "The native language of Fiji (though more speak English as a seond language most speak Fijian as there first language).",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Melanesia:National Language (Tok Pisin)",
+    "Description": "The primary language of Papua New Guinea (though a large number speak English as well)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Micronesia:National Language (Kiribati/Gilbertese)",
+    "Description": "The native language of Kiribati (though almost as many speak English as well)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Micronesia:National Language (Nauruan)",
+    "Description": "Primary language of Nauru (though almost as many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Micronesia:National Language (Palauan)",
+    "Description": "Primary language in Palau (though a good number speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Micronesia:Native Language (Chuukese)",
+    "Description": "The native language of the Chuukuse people, making up the largest ethnic group of Micronesia (about half)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Polynesia:National Language (Samoan)",
+    "Description": "The primary language of Samoa",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Polynesia:National Language (Tongan)",
+    "Description": "The primary language of Tonga (though most speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Oceania Polynesia:National Language (Tuvaluan)",
+    "Description": "The primary language of Tuvalu (though many speak English)",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Organizing",
+    "Description": "",
+    "Subreddits": "r/organization/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Origami",
+    "Description": "A folded paper art originating in Japan",
+    "Subreddits": "r/origami/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Paintball",
+    "Description": "",
+    "Subreddits": "r/paintball//",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Painting (General)",
+    "Description": "Applying paint, pigment or color to a solid surface to create works of art",
+    "Subreddits": "r/painting/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Painting (Miniatures)",
+    "Description": "",
+    "Subreddits": "r/minipainting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Painting (Watercolor)",
+    "Description": "",
+    "Subreddits": "r/Watercolor/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Paleontology (Dinosaurs)",
+    "Description": "",
+    "Subreddits": "r/Paleontology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Paper Quilling",
+    "Description": "An art that uses rolled, shaped and glued strips of paper to create aesthetic designs",
+    "Subreddits": "r/quilling/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Papermaking",
+    "Description": "The manufacturing of paper from wood pulp",
+    "Subreddits": "r/papermaking/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Parkour",
+    "Description": "An acrobatic art prioritizing moving from one place to another as creatively as possible",
+    "Subreddits": "r/Parkour/",
+    "Equipment": "",
+    "Tags": "Active, Solo"
+  },
+  {
+    "Name": "PC Building",
+    "Description": "Building and customizing computers",
+    "Subreddits": "r/pcmasterrace",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "PC Building",
+    "Description": "",
+    "Subreddits": "r/buildapc/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Photography (Astro)",
+    "Description": "",
+    "Subreddits": "r/astrophotography/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Photography (Film)",
+    "Description": "Shooting photos on traditionally developed film",
+    "Subreddits": "r/filmphotography/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Photography (General/Digital)",
+    "Description": "The art of capturing images using a camera, digital or film",
+    "Subreddits": "r/itookapicture/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Photography (Lomography)",
+    "Description": "A form of photography using intentionally low quality classic cameras which creates an aesthetic based on blurring, light leaks and over exposure",
+    "Subreddits": "r/lomography",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Photography (Macro)",
+    "Description": "Capturing images of very small subjects",
+    "Subreddits": "r/macro/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Pickleball",
+    "Description": "",
+    "Subreddits": "r/Pickleball/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Picnicing",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Planning (Vacation/Travel)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Playing Card Games (Cribbage)",
+    "Description": "",
+    "Subreddits": "r/Cribbage/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Playing Card Games (Gin Rummy)",
+    "Description": "",
+    "Subreddits": "r/GinRummy/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Playing Card Games (Pinochle)",
+    "Description": "",
+    "Subreddits": "r/Pinochle/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Playing Card Games (Poker)",
+    "Description": "",
+    "Subreddits": "r/poker/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Playing Card Games (Solitaire)",
+    "Description": "",
+    "Subreddits": "r/solitaire/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Podcasting",
+    "Description": "An audio based program recorded and distributed over the internet, commonly featuring interviews, blog or radio style content",
+    "Subreddits": "r/podcasts",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Poetry (General)",
+    "Description": "Creating rythmic verses that relay an ostensible meaning, either spoken or written",
+    "Subreddits": "r/Poetry/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Poetry (Haiku)",
+    "Description": "A japanese form of poetry limited to three phrases",
+    "Subreddits": "r/haiku/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Polo",
+    "Description": "",
+    "Subreddits": "r/polo/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Pottery (Ceramics)",
+    "Description": "The art of forming physical vessels and using fire to make them durable, most commonly associated with ceramics",
+    "Subreddits": "r/Pottery",
+    "Equipment": "",
+    "Tags": "Crafts, Solo"
+  },
+  {
+    "Name": "Printing (Cyanotype)",
+    "Description": "A form of photo printing that uses a liquid chemical which is sensitive to UV light",
+    "Subreddits": "r/cyanotypes/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Printing (Dark Room)",
+    "Description": "Developing tradiitonal film based photos and videos in a dark room using various techniques",
+    "Subreddits": "r/Darkroom/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Printing (General)",
+    "Description": "",
+    "Subreddits": "r/printmaking/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Printing (Gyotaku)",
+    "Description": "A traditional japanese method of printing where ink is applied to an object, often some sort of dead animal, and applied to paper",
+    "Subreddits": "r/GyotakuArt/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Printing (Ukiyo-e/Woodblock)",
+    "Description": "A method of printing images on textiles or paper originating in China but popularized by Japan",
+    "Subreddits": "r/ukiyoe",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Psychology (Personality)",
+    "Description": "",
+    "Subreddits": "r/psychology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Puppet Making",
+    "Description": "",
+    "Subreddits": "r/puppetry/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Puzzles (Crossword)",
+    "Description": "",
+    "Subreddits": "r/crossword/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Puzzles (General)",
+    "Description": "",
+    "Subreddits": "r/puzzles/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Puzzles (Jigsaw)",
+    "Description": "",
+    "Subreddits": "r/Jigsawpuzzles/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Qigong",
+    "Description": "A chinese exercises focused on isolated movements and expressing internal states and emotions",
+    "Subreddits": "r/TrueQiGong/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Racing (Cars - Dirt Track)",
+    "Description": "",
+    "Subreddits": "r/DirtRacing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Racing (Cars - Drag Racing)",
+    "Description": "",
+    "Subreddits": "r/dragracing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Racing (Cars - Formula)",
+    "Description": "",
+    "Subreddits": "r/formula1/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Racing (Cars - Offroad/Rally Racing)",
+    "Description": "",
+    "Subreddits": "r/OffRoadRacing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Racquetball",
+    "Description": "",
+    "Subreddits": "r/racquetball/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Radio Controlled Objects (Cars - General)",
+    "Description": "",
+    "Subreddits": "r/rccars/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Radio Controlled Objects (Planes)",
+    "Description": "",
+    "Subreddits": "r/RCPlanes/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Rafting (White Water)",
+    "Description": "",
+    "Subreddits": "r/whitewater/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Outdoor"
+  },
+  {
+    "Name": "Rapping (Battling)",
+    "Description": "A type of competitive rap where the object is to insult the other person as cleverly as possible",
+    "Subreddits": "r/rapbattles",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary, Competitive"
+  },
+  {
+    "Name": "Rapping (Freestyle)",
+    "Description": "Rap which is entirely improvised",
+    "Subreddits": "r/freestylerap",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Rapping (General)",
+    "Description": "A musical form of poetry associated with street culture",
+    "Subreddits": "r/rap",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Reiki",
+    "Description": "A type of chinese massage involving laying palms on someone to rebalance their energy",
+    "Subreddits": "r/reiki/",
+    "Equipment": "",
+    "Tags": "Group, Solo, Active"
+  },
+  {
+    "Name": "Resin Art (D&D Dice Making)",
+    "Description": "Creating dice, usually mold based, for the table top RPG Dungeons and Dragons",
+    "Subreddits": "r/dicemaking/",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Resin Art (General)",
+    "Description": "Using a composite plastic to create suspension based art like preserving flowers and glitter within a mold",
+    "Subreddits": "r/resinart/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Rideshare Driving",
+    "Description": "",
+    "Subreddits": "r/uberdrivers/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Risk",
+    "Description": "",
+    "Subreddits": "r/Risk/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Robots (Combat)",
+    "Description": "Competitive building and fighting of robots against each other where the goal is to incapacitate the other",
+    "Subreddits": "r/battlebots",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Compeititve"
+  },
+  {
+    "Name": "Robots (General)",
+    "Description": "The design and construction of complex machinery",
+    "Subreddits": "r/robotics",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Rock Climbing (Bouldering)",
+    "Description": "",
+    "Subreddits": "r/bouldering/",
+    "Equipment": "",
+    "Tags": "Solo, Active,Outdoor, Competitive"
+  },
+  {
+    "Name": "Rock Climbing (General)",
+    "Description": "",
+    "Subreddits": "r/RockClimbing/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Rock Climbing (Psicobloc/Deep Water Solo)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Rocketry (Model)",
+    "Description": "Creating, launching and recovering small lightweight rockets",
+    "Subreddits": "r/rocketry/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor, Outdoor, illegal"
+  },
+  {
+    "Name": "Rockhounding (Fossicking)",
+    "Description": "",
+    "Subreddits": "r/rockhounds/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Rollerblading (General)",
+    "Description": "",
+    "Subreddits": "r/rollerblading/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Rollerblading (Street)",
+    "Description": "",
+    "Subreddits": "r/rollerblading/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Rollerskating (General)",
+    "Description": "",
+    "Subreddits": "r/Rollerskating/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Rollerskating (Vert)",
+    "Description": "",
+    "Subreddits": "r/Rollerskating/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Rowing/Crew (Sculling)",
+    "Description": "",
+    "Subreddits": "r/Rowing/",
+    "Equipment": "",
+    "Tags": "Group, Active, Outdoor, Competitive"
+  },
+  {
+    "Name": "Rubix Cube",
+    "Description": "",
+    "Subreddits": "r/Cubers/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Running (Fell)",
+    "Description": "",
+    "Subreddits": "r/fellrunning/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Running (General)",
+    "Description": "Moving quickly for long periods of time as a form of exercise",
+    "Subreddits": "r/running/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Running (General)",
+    "Description": "",
+    "Subreddits": "r/AdvancedRunning/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Running (Trail)",
+    "Description": "",
+    "Subreddits": "r/trailrunning/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Sailing (Dinghy/Sunfish)",
+    "Description": "",
+    "Subreddits": "r/dinghysailing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Sailing (General)",
+    "Description": "",
+    "Subreddits": "r/sailing",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Sailing (Sport)",
+    "Description": "",
+    "Subreddits": "r/sailing/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Competitive"
+  },
+  {
+    "Name": "Sauna/Onsen",
+    "Description": "Laying in hot damp areas to relax and decompress",
+    "Subreddits": "r/Sauna/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Scouting",
+    "Description": "",
+    "Subreddits": "r/scouting/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Outdoor"
+  },
+  {
+    "Name": "Scrabble",
+    "Description": "",
+    "Subreddits": "r/scrabble/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Scrapbooking",
+    "Description": "Preserving and arranging personal memoribilia, commonly involving photographs and typically in the form a book",
+    "Subreddits": "r/scrapbooking/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Sculpting (General)",
+    "Description": "Creating three dimensional works of art through a variety of methods",
+    "Subreddits": "r/sculpting/",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Sculpting (Sand)",
+    "Description": "Creating temporary sculptures using beach sand, typically in the form of sand castles",
+    "Subreddits": "r/SandCastles/",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Sculpting (Wood - Whittling)",
+    "Description": "",
+    "Subreddits": "r/whittling/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Settlers of Catan",
+    "Description": "",
+    "Subreddits": "r/Catan/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Shoe Making (Customizing)",
+    "Description": "Customizing footwear, typically by applying dyes and painting techniques",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Shoe Making (General/Cobbling/Cordonnier)",
+    "Description": "Creating footwear, originally by hand",
+    "Subreddits": "r/shoemaking",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Shogi",
+    "Description": "",
+    "Subreddits": "r/shogi/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Shooting (Clays/Skeet)",
+    "Description": "",
+    "Subreddits": "r/ClayBusters/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Competitive"
+  },
+  {
+    "Name": "Shooting (Speed)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Competitive"
+  },
+  {
+    "Name": "Shooting (Trap)",
+    "Description": "",
+    "Subreddits": "r/TrapShooting/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Show Watching (Anime)",
+    "Description": "Watching japanese animation",
+    "Subreddits": "r/anime",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor, Cartoons"
+  },
+  {
+    "Name": "Show Watching (Professional Wrestling)",
+    "Description": "",
+    "Subreddits": "r/WWE/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Shuffleboard",
+    "Description": "",
+    "Subreddits": "r/shuffleboard/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Singing (A cappella)",
+    "Description": "A musical performance made up entirely of singers without instrumental accompaniment",
+    "Subreddits": "r/acappella/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary"
+  },
+  {
+    "Name": "Singing (General)",
+    "Description": "Creating music with your voice",
+    "Subreddits": "r/singing/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Singing (Scat)",
+    "Description": "Singing jibberish",
+    "Subreddits": "r/scat",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Singing (Screaming)",
+    "Description": "Singing which resembles growling and is associated with metal and screamo music",
+    "Subreddits": "r/screaming",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary"
+  },
+  {
+    "Name": "Sitting (Baby)",
+    "Description": "",
+    "Subreddits": "r/Babysitting/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Sitting (Dog Walking)",
+    "Description": "",
+    "Subreddits": "r/WagWalker/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Sitting (House)",
+    "Description": "",
+    "Subreddits": "r/housesitting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Sitting (Nannying)",
+    "Description": "",
+    "Subreddits": "r/Nanny/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Sitting (Pets)",
+    "Description": "",
+    "Subreddits": "r/RoverPetSitting/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Skateboarding (Freestyle)",
+    "Description": "",
+    "Subreddits": "r/freestyleskateboard/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skateboarding (General)",
+    "Description": "",
+    "Subreddits": "r/skateboarding/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skateboarding (Street)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skateboarding (Surf Skate)",
+    "Description": "",
+    "Subreddits": "r/surfskate/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skateboarding (Vert)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Sketching",
+    "Description": "Freehand drawings not typically intended as a final work",
+    "Subreddits": "r/sketches/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Skibiking",
+    "Description": "",
+    "Subreddits": "r/Skibike/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skiing (Snow)",
+    "Description": "",
+    "Subreddits": "r/skiing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skiing (Water)",
+    "Description": "",
+    "Subreddits": "r/WaterSkiing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skimboarding",
+    "Description": "",
+    "Subreddits": "r/skimboarding/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Skincare",
+    "Description": "Using a variety of techniques to improve the quality of one's skin",
+    "Subreddits": "r/SkincareAddiction/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Skydiving (General)",
+    "Description": "",
+    "Subreddits": "r/SkyDiving/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Skydiving (Wingsuit/BASE Jumping)",
+    "Description": "",
+    "Subreddits": "r/SkyDiving/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Slacklining",
+    "Description": "",
+    "Subreddits": "r/Slackline/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Sledding (Dogs)",
+    "Description": "",
+    "Subreddits": "r/Dogsledding/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Sledding (General)",
+    "Description": "",
+    "Subreddits": "r/Sledding/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Active, Outdoor"
+  },
+  {
+    "Name": "Slotcar",
+    "Description": "",
+    "Subreddits": "r/slotcars/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Smithing (Gun)",
+    "Description": "Building, modifying and repairing guns",
+    "Subreddits": "r/gunsmithing",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Smithing (Knife/Blade)",
+    "Description": "The art of making bladed weapons using a forge, hammer and anvil",
+    "Subreddits": "r/Bladesmith",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Smithing (Metalworking General)",
+    "Description": "Shaping and reshaping metals to create useful objects",
+    "Subreddits": "r/metalworking/",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Snowbiking",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Snowboarding",
+    "Description": "",
+    "Subreddits": "r/snowboarding/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Snowshoeing",
+    "Description": "",
+    "Subreddits": "r/snowshoeing/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Soapmaking",
+    "Description": "Creating personal cleansing products, usually imbued with aromatics",
+    "Subreddits": "r/soapmaking/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Soccer (Freestyle)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Sociology (Interaction of People)",
+    "Description": "",
+    "Subreddits": "r/sociology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Software Engineering (General)",
+    "Description": "Writing and deploying computer software to a variety of purposes",
+    "Subreddits": "r/SoftwareEngineering",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Software Engineering (Video Games)",
+    "Description": "Writing software for video games, commonly in game engines like Unreal or Unity",
+    "Subreddits": "r/gamedev",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Software Engineering (Web)",
+    "Description": "Writing software for web based applications, associated commonly with Full Stack Development",
+    "Subreddits": "r/webdev",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Songwriting",
+    "Description": "Composing and writing lyrics for music and songs",
+    "Subreddits": "r/Songwriting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Spelunking (Canyoneering)",
+    "Description": "",
+    "Subreddits": "r/canyoneering/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active, Outdoor"
+  },
+  {
+    "Name": "Spelunking (Caving)",
+    "Description": "",
+    "Subreddits": "r/caving/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Spikeball/Roudnet",
+    "Description": "",
+    "Subreddits": "r/spikeball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Squash",
+    "Description": "",
+    "Subreddits": "r/squash/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Stand-Up Comedy (General)",
+    "Description": "A type of comedy where the comedian addresses the audience directly",
+    "Subreddits": "r/StandUpComedy",
+    "Equipment": "",
+    "Tags": "Group"
+  },
+  {
+    "Name": "Stand-Up Comedy (Improv)",
+    "Description": "A type of comedy where the act is mostly improvised as it goes",
+    "Subreddits": "r/improv",
+    "Equipment": "",
+    "Tags": "Group"
+  },
+  {
+    "Name": "Stargazing",
+    "Description": "",
+    "Subreddits": "r/Stargazing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Statistics",
+    "Description": "",
+    "Subreddits": "r/statistics/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Stone Polishing (Lapidary)",
+    "Description": "Shaping stones and minerals into decorative items",
+    "Subreddits": "r/Lapidary",
+    "Equipment": "Rocks",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Stone skipping",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Stretching (General)",
+    "Description": "Lenghtening the body as pre-exercise or as exercise itself to become more flexible and reduce stiffness and pain",
+    "Subreddits": "r/Stretching/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "String Figures",
+    "Description": "Tangling strings in your hands in a pattern to create art when you pull them apart",
+    "Subreddits": "r/StringFigures/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Stripping",
+    "Description": "Removing your clothes in an erotic performance, often in conjunction with pole dancing",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Active, Erotic"
+  },
+  {
+    "Name": "Sudoku",
+    "Description": "",
+    "Subreddits": "r/sudoku/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Surfing (Foil)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Surfing (General)",
+    "Description": "",
+    "Subreddits": "r/surfing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Survivalism",
+    "Description": "",
+    "Subreddits": "r/Survival/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Swimming",
+    "Description": "",
+    "Subreddits": "r/Swimming/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Table Tennis/Ping Pong",
+    "Description": "",
+    "Subreddits": "r/tabletennis/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Tai-Chi",
+    "Description": "Originally a chinese martial art, now used as a flowing full body exercise",
+    "Subreddits": "r/taijiquan/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Tanning",
+    "Description": "Exposing your skin to UV rays, outside or in a tanning bed, to darken and deepen its color",
+    "Subreddits": "r/tanning/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Tarot Card Reading",
+    "Description": "Interprating tarot cards to gain insight into the past, present and future of an individual",
+    "Subreddits": "r/tarot",
+    "Equipment": "",
+    "Tags": "Sedentary, Solo"
+  },
+  {
+    "Name": "Tattoo",
+    "Description": "Designing and applying ink based art which is permanently applied to the skin",
+    "Subreddits": "r/TattooDesigns/ r/tattoos/",
+    "Equipment": "",
+    "Tags": "Sedentary, Group"
+  },
+  {
+    "Name": "Taxidermy",
+    "Description": "The art of preserving and displaying an animal's body via mounting or stuffing",
+    "Subreddits": "r/Taxidermy",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Tea (General)",
+    "Description": "",
+    "Subreddits": "r/tea/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Tea (Gong/Kung Fu)",
+    "Description": "",
+    "Subreddits": "r/GongFuTea/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Team Sports (Australian Football)",
+    "Description": "",
+    "Subreddits": "r/AFL/ r/Aleague/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Team Sports (Baseball)",
+    "Description": "",
+    "Subreddits": "r/Homeplate/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Basketball)",
+    "Description": "",
+    "Subreddits": "r/Basketball/ r/BasketballTips/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Team Sports (Cricket)",
+    "Description": "",
+    "Subreddits": "r/Cricket/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Dodgeball)",
+    "Description": "",
+    "Subreddits": "r/dodgeball/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Team Sports (Floorball)",
+    "Description": "",
+    "Subreddits": "r/floorball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Football - Flag)",
+    "Description": "",
+    "Subreddits": "r/flagfootball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Gaelic/Irish Football)",
+    "Description": "",
+    "Subreddits": "r/coybig/ r/LeagueOfIreland/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Team Sports (Hockey - Roller/Inline)",
+    "Description": "",
+    "Subreddits": "r/InlineHockey/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Hockey - Traditional)",
+    "Description": "",
+    "Subreddits": "r/hockey/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Hockey - Underwater)",
+    "Description": "",
+    "Subreddits": "r/UWH/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Kabaddi)",
+    "Description": "",
+    "Subreddits": "r/Kabaddi/ r/prokabaddi/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Team Sports (Lacrosse)",
+    "Description": "",
+    "Subreddits": "r/lacrosse/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Roller Derby)",
+    "Description": "",
+    "Subreddits": "r/rollerderby/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Soccer - Freestyle)",
+    "Description": "",
+    "Subreddits": "r/FreestyleFootball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Soccer - General/Association/Club)",
+    "Description": "",
+    "Subreddits": "r/soccer/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Softball)",
+    "Description": "",
+    "Subreddits": "r/Softball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Volleyball - Beach)",
+    "Description": "",
+    "Subreddits": "r/beachvolleyball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Volleyball - General)",
+    "Description": "",
+    "Subreddits": "r/volleyball/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Team Sports (Water Polo)",
+    "Description": "",
+    "Subreddits": "r/waterpolo/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Tennis",
+    "Description": "",
+    "Subreddits": "r/tennis/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Tennis Polo",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Terrarium (General)",
+    "Description": "",
+    "Subreddits": "r/Terrarium/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Terrarium (Paludarium)",
+    "Description": "A terrarium that is both land and water based",
+    "Subreddits": "r/paludarium/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Theme/Amusement Parks (General)",
+    "Description": "",
+    "Subreddits": "r/Themepark",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Theme/Amusement Parks (Renaissance Fairs)",
+    "Description": "",
+    "Subreddits": "r/renfaire",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Theme/Amusement Parks (Rollercoasters)",
+    "Description": "",
+    "Subreddits": "r/rollercoasters",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Theology (Religion - Buddhism)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Theology (Religion - Christianity)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Theology (Religion - General)",
+    "Description": "",
+    "Subreddits": "r/theology/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Theology (Religion - Hinduism)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Theology (Religion - Islam)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Theology (Religion - Judaism)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Theology (Religion - Zoroastrianism)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Therapy (Hypno)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Thrifting",
+    "Description": "Collecting items from charity shops. Originally designed to be for extremely low income individuals, they have become popular with young adults",
+    "Subreddits": "r/thrifting/",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Throwing (Axes)",
+    "Description": "",
+    "Subreddits": "r/AxeThrowing/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Competitive"
+  },
+  {
+    "Name": "Throwing (Darts)",
+    "Description": "",
+    "Subreddits": "r/Darts/",
+    "Equipment": "",
+    "Tags": "Group, Indoor"
+  },
+  {
+    "Name": "Throwing (Javeling)",
+    "Description": "",
+    "Subreddits": "r/javelinthrow/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Throwing (Knives)",
+    "Description": "",
+    "Subreddits": "r/knifethrowing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Throwing (Shot Put)",
+    "Description": "",
+    "Subreddits": "r/shotput/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Toymaking",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Trade Shows",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Trading Card Games (Magic The Gathering)",
+    "Description": "",
+    "Subreddits": "r/magicTCG/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Trading Card Games (Pokemon)",
+    "Description": "",
+    "Subreddits": "r/PokemonTCG/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Trading Card Games (Yugi-Oh)",
+    "Description": "",
+    "Subreddits": "r/yugioh/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Trail Cooking",
+    "Description": "",
+    "Subreddits": "r/trailmeals/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Travel (Hitchiking)",
+    "Description": "",
+    "Subreddits": "r/hitchhiking/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Travel (Minimalist)",
+    "Description": "",
+    "Subreddits": "r/onebag/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Travel (Road Tripping)",
+    "Description": "",
+    "Subreddits": "r/roadtrip/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Triathlon",
+    "Description": "",
+    "Subreddits": "r/triathlon/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Tutoring",
+    "Description": "",
+    "Subreddits": "r/tutor/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "UI/UX (How people use things based on how they are made)",
+    "Description": "",
+    "Subreddits": "r/UXDesign/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Unicycling (Electric)",
+    "Description": "",
+    "Subreddits": "r/ElectricUnicycle/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Unicycling (General)",
+    "Description": "",
+    "Subreddits": "r/unicycling/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor"
+  },
+  {
+    "Name": "Upcycling",
+    "Description": "Transforming no longer used products into new useful products",
+    "Subreddits": "r/upcycling",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Urban Exploration (Urbex)",
+    "Description": "",
+    "Subreddits": "r/Urbex/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Outdoor, Illegal"
+  },
+  {
+    "Name": "Video Games (Fighting Games/FGC)",
+    "Description": "",
+    "Subreddits": "r/FGC/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Video Games (General)",
+    "Description": "",
+    "Subreddits": "r/gaming/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Video Games (RPGs)",
+    "Description": "",
+    "Subreddits": "r/rpg_gamers/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary, Indoor"
+  },
+  {
+    "Name": "Video Games (RTS)",
+    "Description": "",
+    "Subreddits": "r/RealTimeStrategy/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Video Games (Speedrunning)",
+    "Description": "",
+    "Subreddits": "r/speedrun/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Video Games (Virtual Reality)",
+    "Description": "Video Games played in a VR space, frequently with the HTC Vive or the Oculus Rift",
+    "Subreddits": "r/VRGaming/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Video Games(League of Legends/MOBA)",
+    "Description": "",
+    "Subreddits": "r/leagueoflegends/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Video Production (Editing)",
+    "Description": "Cutting together video clips to form the final product of a video based work",
+    "Subreddits": "r/VideoEditing",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Video Production (General)",
+    "Description": "The many facets of producing videos",
+    "Subreddits": "r/videoproduction/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Video Production (Sound Design)",
+    "Description": "The planning, recording and mixing of sound into videos",
+    "Subreddits": "r/sounddesign",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Video Production (Special Effects/SFX)",
+    "Description": "The practical effects involving costuming, makeup or environmental effects used to make videos",
+    "Subreddits": "r/sfx",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Video Production (Visual Effects/VFX)",
+    "Description": "The digital effects added after a video has been recorded, commonly associated with CGI and Green Screening",
+    "Subreddits": "r/vfx/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Videogames (Soulsborne)",
+    "Description": "",
+    "Subreddits": "r/darksouls/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Virtual Reality/VR (General)",
+    "Description": "Simulated experiences making use of visual peripherals to immerse yourself completely in a generated environment",
+    "Subreddits": "r/virtualreality/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Indoor"
+  },
+  {
+    "Name": "Volunteering (Animal Activism)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Volunteering (Animal Shelter/Rescue)",
+    "Description": "",
+    "Subreddits": "r/AnimalShelterStories/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Volunteering (Conservation)",
+    "Description": "",
+    "Subreddits": "r/conservation/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Volunteering (Crimestoppers)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Volunteering (Eldercare)",
+    "Description": "",
+    "Subreddits": "r/eldercare/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Volunteering (Food Banks)",
+    "Description": "",
+    "Subreddits": "r/Food_Bank/",
+    "Equipment": "",
+    "Tags": "Solo, Active, Sedentary"
+  },
+  {
+    "Name": "Volunteering (Haircut)",
+    "Description": "",
+    "Subreddits": "r/Barber/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Volunteering (International)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Volunteering (IT/Electronics)",
+    "Description": "",
+    "Subreddits": "r/techsupport/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Volunteering (Legal)",
+    "Description": "",
+    "Subreddits": "r/legaladvice/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Volunteering (Nature Cleanups - Plogging)",
+    "Description": "",
+    "Subreddits": "r/DeTrashed/",
+    "Equipment": "",
+    "Tags": "Solo, Active"
+  },
+  {
+    "Name": "Volunteering (Organic Farmhanding - Wwoofing)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Volunteering (Taxes)",
+    "Description": "",
+    "Subreddits": "r/taxhelp/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary"
+  },
+  {
+    "Name": "Wakeboarding",
+    "Description": "",
+    "Subreddits": "r/Wake/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Wakesurfing",
+    "Description": "",
+    "Subreddits": "r/wakesurf/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Wargaming",
+    "Description": "",
+    "Subreddits": "r/wargaming/",
+    "Equipment": "",
+    "Tags": "Group, Sedentary, Indoor, Competitive"
+  },
+  {
+    "Name": "Watching/Spotting (Birds)",
+    "Description": "",
+    "Subreddits": "r/birdwatching/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Watching/Spotting (Cars)",
+    "Description": "",
+    "Subreddits": "r/carspotting/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Watching/Spotting (Satellites)",
+    "Description": "",
+    "Subreddits": "r/StarlinkSightings/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Watching/Spotting (Stormchasing)",
+    "Description": "",
+    "Subreddits": "r/stormchasing/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Watching/Spotting (Trains)",
+    "Description": "",
+    "Subreddits": "r/trains/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Watching/Spotting (Whales)",
+    "Description": "",
+    "Subreddits": "r/whalewatching/",
+    "Equipment": "",
+    "Tags": "Solo, Sedentary, Outdoor"
+  },
+  {
+    "Name": "Wheel Chair (WCMX)",
+    "Description": "",
+    "Subreddits": "r/wcmx/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Wind Surfing (General)",
+    "Description": "",
+    "Subreddits": "r/windsurfing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Wind Surfing (Wingfoil)",
+    "Description": "",
+    "Subreddits": "r/windsurfing/",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Wood Burning (Pyrography)",
+    "Description": "Creating art on a wood canvas with burn marks, typically by using a hot rod called a poker",
+    "Subreddits": "r/Pyrography",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Wood Working (Bowyer)",
+    "Description": "Using materials (mostly wood) to craft bows for archery",
+    "Subreddits": "r/Bowyer/",
+    "Equipment": "",
+    "Tags": "Crafts, Solo"
+  },
+  {
+    "Name": "Woodworking (Finishing/Re-Finishing)",
+    "Description": "The refinement and processing of a wood objects surface to give it a desired appearance and quality",
+    "Subreddits": "r/finishing",
+    "Equipment": "",
+    "Tags": "Crafts, Solo"
+  },
+  {
+    "Name": "Woodworking (General)",
+    "Description": "Making items from wood, such as furniture, cabnetry and sculptures",
+    "Subreddits": "r/woodworking/",
+    "Equipment": "",
+    "Tags": "Crafts, Sedentary, Solo"
+  },
+  {
+    "Name": "Woodworking (Scrollsaw)",
+    "Description": "Using a scrollsaw to make artistic cut outs from wood, somewhat similar to machining",
+    "Subreddits": "r/Scrollsaw",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Wrestling (Amateur)",
+    "Description": "",
+    "Subreddits": "r/wrestling/",
+    "Equipment": "",
+    "Tags": "Group, Active, Competitive"
+  },
+  {
+    "Name": "Wrestling (Icelandic/Glima)",
+    "Description": "",
+    "Subreddits": "",
+    "Equipment": "",
+    "Tags": ""
+  },
+  {
+    "Name": "Yo-Yo (Throwing)",
+    "Description": "Performing tricks using the string and disk based toy called the Yo-Yo",
+    "Subreddits": "r/Throwers",
+    "Equipment": "",
+    "Tags": "Solo"
+  },
+  {
+    "Name": "Yoga (Acro)",
+    "Description": "A partnered form of yoga involving lifting and holding the other person in various poses",
+    "Subreddits": "r/AcroYoga/",
+    "Equipment": "",
+    "Tags": "Group, Active"
+  },
+  {
+    "Name": "Yoga (General)",
+    "Description": "An indian strecthing practice involving a variety of holds and poses, which often hold religious significance",
+    "Subreddits": "r/yoga/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active"
+  },
+  {
+    "Name": "Zumba",
+    "Description": "A group dancing based exercise held at many gyms or virtually",
+    "Subreddits": "r/zumba/",
+    "Equipment": "",
+    "Tags": "Solo, Group, Active"
+  }
+]

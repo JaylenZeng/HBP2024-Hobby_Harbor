@@ -28,8 +28,7 @@ a:hover {
 html,
 
 body {
-    background-image: url(homepage.png);
-    background-repeat: no-repeat;
+    background-image: url(./images/homepage.png);
     background-size: cover;
     background-blend-mode: multiply;
     background-color: rgba(77, 82, 86, 0.9);
